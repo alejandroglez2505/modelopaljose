@@ -1,0 +1,1136 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,dias,peso_tiempo,peso_torneo,peso_total
+2026-06-24,Mexico,Czech Republic,3.0,0.0,FIFA World Cup,Mexico City,Mexico,False,1,0.9980019986673331,1.5,1.4970029980009996
+2026-06-18,Mexico,South Korea,1.0,0.0,FIFA World Cup,Zapopan,Mexico,False,7,0.9860975442628619,1.5,1.4791463163942928
+2026-06-11,Mexico,South Africa,2.0,0.0,FIFA World Cup,Mexico City,Mexico,False,14,0.9723883668012469,1.5,1.4585825502018703
+2026-06-04,Mexico,Serbia,5.0,1.0,Friendly,Toluca,Mexico,False,21,0.9588697805724845,0.75,0.7191523354293634
+2026-05-30,Mexico,Australia,1.0,0.0,Friendly,Pasadena,United States,True,26,0.9493288668428895,0.75,0.7119966501321672
+2026-05-22,Mexico,Ghana,2.0,0.0,Friendly,Puebla,Mexico,False,34,0.9342604735772135,0.75,0.7006953551829102
+2026-03-31,Mexico,Belgium,1.0,1.0,Friendly,Chicago,United States,True,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-28,Mexico,Portugal,0.0,0.0,Friendly,Mexico City,Mexico,False,89,0.8369424234887681,0.75,0.6277068176165761
+2026-02-25,Mexico,Iceland,4.0,0.0,Friendly,Querétaro,Mexico,False,120,0.7866278610665535,0.75,0.5899708957999151
+2026-01-25,Bolivia,Mexico,0.0,1.0,Friendly,Santa Cruz,Bolivia,False,151,0.7393380648895319,0.75,0.5545035486671489
+2026-01-22,Panama,Mexico,0.0,1.0,Friendly,Panama City,Panama,False,154,0.7349153180090687,0.75,0.5511864885068015
+2025-11-18,Mexico,Paraguay,1.0,2.0,Friendly,San Antonio,United States,True,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-15,Mexico,Uruguay,0.0,0.0,Friendly,Torreón,Mexico,False,222,0.6414654208273198,0.75,0.4810990656204899
+2025-10-14,Mexico,Ecuador,1.0,1.0,Friendly,Zapopan,Mexico,False,254,0.6016977717621094,0.75,0.451273328821582
+2025-10-11,Mexico,Colombia,0.0,4.0,Friendly,Arlington,United States,True,257,0.5980983940627613,0.75,0.448573795547071
+2025-09-09,Mexico,South Korea,2.0,2.0,Friendly,Nashville,United States,True,289,0.5610192838421706,0.75,0.42076446288162794
+2025-09-06,Mexico,Japan,0.0,0.0,Friendly,Oakland,United States,True,292,0.5576632463197913,0.75,0.41824743473984344
+2025-07-06,United States,Mexico,1.0,2.0,Gold Cup,Houston,United States,False,354,0.49262846980013547,1.15,0.5665227402701557
+2025-07-02,Mexico,Honduras,1.0,0.0,Gold Cup,Santa Clara,United States,True,358,0.4887031641990795,1.15,0.5620086388289414
+2025-06-28,Mexico,Saudi Arabia,2.0,0.0,Gold Cup,Glendale,United States,True,362,0.48480913576734325,1.15,0.5575305061324447
+2025-06-22,Mexico,Costa Rica,0.0,0.0,Gold Cup,Paradise,United States,True,368,0.4790261931887511,1.15,0.5508801221670637
+2025-06-18,Suriname,Mexico,0.0,2.0,Gold Cup,Arlington,United States,True,372,0.47520927168614446,1.15,0.5464906624390661
+2025-06-14,Mexico,Dominican Republic,3.0,2.0,Gold Cup,Inglewood,United States,True,376,0.4714227637391309,1.15,0.5421361783000005
+2025-06-10,Mexico,Turkey,1.0,0.0,Friendly,Chapel Hill,United States,True,380,0.46766642700990924,0.75,0.35074982025743195
+2025-06-07,Mexico,Switzerland,2.0,4.0,Friendly,Salt Lake City,United States,True,383,0.46486882963276827,0.75,0.3486516222245762
+2025-03-23,Panama,Mexico,1.0,2.0,CONCACAF Nations League,Inglewood,United States,True,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Canada,Mexico,0.0,2.0,CONCACAF Nations League,Inglewood,United States,True,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-19,Mexico,Honduras,4.0,0.0,CONCACAF Nations League,Toluca,Mexico,False,583,0.31161089527997105,1.1,0.34277198480796817
+2024-11-15,Honduras,Mexico,2.0,0.0,CONCACAF Nations League,San Pedro Sula,Honduras,False,587,0.30912795312868047,1.1,0.3400407484415485
+2024-10-15,Mexico,United States,2.0,0.0,Friendly,Zapopan,Mexico,False,618,0.2905440729744046,0.75,0.21790805473080344
+2026-06-24,South Africa,South Korea,1.0,0.0,FIFA World Cup,Guadalupe,Mexico,True,1,0.9980019986673331,1.5,1.4970029980009996
+2026-06-18,Czech Republic,South Africa,1.0,1.0,FIFA World Cup,Atlanta,United States,True,7,0.9860975442628619,1.5,1.4791463163942928
+2026-06-06,Jamaica,South Africa,0.0,1.0,Friendly,Pachuca,Mexico,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-05-29,South Africa,Nicaragua,0.0,0.0,Friendly,Johannesburg,South Africa,False,27,0.9474321065017983,0.75,0.7105740798763487
+2026-03-31,South Africa,Panama,1.0,2.0,Friendly,Cape Town,South Africa,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,South Africa,Panama,1.0,1.0,Friendly,Durban,South Africa,False,90,0.835270211411272,0.75,0.626452658558454
+2026-01-04,South Africa,Cameroon,1.0,2.0,African Cup of Nations,Rabat,Morocco,True,172,0.7089289280495107,1.1,0.7798218208544618
+2025-12-29,Zimbabwe,South Africa,2.0,3.0,African Cup of Nations,Marrakesh,Morocco,True,178,0.7004726202352524,1.1,0.7705198822587777
+2025-12-26,Egypt,South Africa,1.0,0.0,African Cup of Nations,Agadir,Morocco,True,181,0.696282367841771,1.1,0.7659106046259482
+2025-12-22,South Africa,Angola,2.0,1.0,African Cup of Nations,Marrakesh,Morocco,True,185,0.6907343306373547,1.1,0.7598077637010902
+2025-11-15,South Africa,Zambia,3.0,1.0,Friendly,Gqeberha,South Africa,False,222,0.6414654208273198,0.75,0.4810990656204899
+2025-10-14,South Africa,Rwanda,3.0,0.0,FIFA World Cup qualification,Mbombela,South Africa,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-10,South Africa,Zimbabwe,0.0,0.0,FIFA World Cup qualification,Durban,South Africa,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-09,South Africa,Nigeria,1.0,1.0,FIFA World Cup qualification,Bloemfontein,South Africa,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-05,South Africa,Lesotho,3.0,0.0,FIFA World Cup qualification,Bloemfontein,South Africa,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-10,South Africa,Mozambique,2.0,0.0,Friendly,Polokwane,South Africa,False,380,0.46766642700990924,0.75,0.35074982025743195
+2025-06-06,South Africa,Tanzania,0.0,0.0,Friendly,Polokwane,South Africa,False,384,0.4639400210916467,0.75,0.34795501581873506
+2025-03-25,Benin,South Africa,0.0,2.0,FIFA World Cup qualification,Abidjan,Ivory Coast,True,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-21,South Africa,Lesotho,0.0,3.0,FIFA World Cup qualification,Polokwane,South Africa,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-19,South Africa,South Sudan,3.0,0.0,African Cup of Nations qualification,Cape Town,South Africa,False,583,0.31161089527997105,1.25,0.3895136190999638
+2024-11-15,Uganda,South Africa,0.0,2.0,African Cup of Nations qualification,Kampala,Uganda,False,587,0.30912795312868047,1.25,0.3864099414108506
+2024-10-15,Congo,South Africa,1.0,1.0,African Cup of Nations qualification,Brazzaville,Congo,False,618,0.2905440729744046,1.25,0.36318009121800576
+2024-10-11,South Africa,Congo,5.0,0.0,African Cup of Nations qualification,Gqeberha,South Africa,False,622,0.2882289930573573,1.25,0.3602862413216966
+2024-09-10,South Sudan,South Africa,2.0,3.0,African Cup of Nations qualification,Juba,South Sudan,False,653,0.27090149805163766,1.25,0.33862687256454704
+2024-09-06,South Africa,Uganda,2.0,2.0,African Cup of Nations qualification,Johannesburg,South Africa,False,657,0.26874293184439435,1.25,0.33592866480549294
+2024-06-11,South Africa,Zimbabwe,3.0,1.0,FIFA World Cup qualification,Bloemfontein,South Africa,False,744,0.22582385189647586,1.5,0.33873577784471376
+2024-06-07,Nigeria,South Africa,1.0,1.0,FIFA World Cup qualification,Uyo,Nigeria,False,748,0.22402446821274175,1.5,0.33603670231911265
+2024-03-26,Algeria,South Africa,3.0,3.0,FIFA Series,Algiers,Algeria,False,821,0.1935924699078839,0.75,0.14519435243091292
+2024-03-21,South Africa,Andorra,1.0,1.0,FIFA Series,Annaba,Algeria,True,826,0.19166619264739126,0.75,0.14374964448554345
+2026-06-11,South Korea,Czech Republic,2.0,1.0,FIFA World Cup,Zapopan,Mexico,True,14,0.9723883668012469,1.5,1.4585825502018703
+2026-06-03,South Korea,El Salvador,1.0,0.0,Friendly,Provo,United States,True,22,0.9569539574730467,0.75,0.717715468104785
+2026-05-30,South Korea,Trinidad and Tobago,5.0,0.0,Friendly,Provo,United States,True,26,0.9493288668428895,0.75,0.7119966501321672
+2026-03-31,Austria,South Korea,1.0,0.0,Friendly,Vienna,Austria,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-28,Ivory Coast,South Korea,4.0,0.0,Friendly,Milton Keynes,England,True,89,0.8369424234887681,0.75,0.6277068176165761
+2025-11-18,South Korea,Ghana,1.0,0.0,Friendly,Seoul,South Korea,False,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-14,South Korea,Bolivia,2.0,0.0,Friendly,Daejeon,South Korea,False,223,0.6401837720616471,0.75,0.48013782904623536
+2025-10-14,South Korea,Paraguay,2.0,0.0,Friendly,Seoul,South Korea,False,254,0.6016977717621094,0.75,0.451273328821582
+2025-10-10,South Korea,Brazil,0.0,5.0,Friendly,Seoul,South Korea,False,258,0.596903392674358,0.75,0.44767754450576847
+2025-09-06,United States,South Korea,0.0,2.0,Friendly,Harrison,United States,False,292,0.5576632463197913,0.75,0.41824743473984344
+2025-06-10,South Korea,Kuwait,4.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-05,Iraq,South Korea,0.0,2.0,FIFA World Cup qualification,Basra,Iraq,False,385,0.46301306831122807,1.5,0.6945196024668421
+2025-03-25,South Korea,Jordan,1.0,1.0,FIFA World Cup qualification,Suwon,South Korea,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,South Korea,Oman,1.0,1.0,FIFA World Cup qualification,Goyang,South Korea,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-11-19,Palestine,South Korea,1.0,1.0,FIFA World Cup qualification,Amman,Jordan,True,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-14,Kuwait,South Korea,1.0,3.0,FIFA World Cup qualification,Kuwait City,Kuwait,False,588,0.3085103150663647,1.5,0.4627654725995471
+2024-10-15,South Korea,Iraq,3.0,2.0,FIFA World Cup qualification,Yongin,South Korea,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-10-10,Jordan,South Korea,0.0,2.0,FIFA World Cup qualification,Amman,Jordan,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-10,Oman,South Korea,1.0,3.0,FIFA World Cup qualification,Muscat,Oman,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-05,South Korea,Palestine,0.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,658,0.2682059831084244,1.5,0.4023089746626366
+2024-06-11,South Korea,China,1.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,744,0.22582385189647586,1.5,0.33873577784471376
+2024-06-06,Singapore,South Korea,0.0,7.0,FIFA World Cup qualification,Kallang,Singapore,False,749,0.22357686702670268,1.5,0.33536530054005403
+2024-03-26,Thailand,South Korea,0.0,3.0,FIFA World Cup qualification,Bangkok,Thailand,False,821,0.1935924699078839,1.5,0.29038870486182583
+2024-03-21,South Korea,Thailand,1.0,1.0,FIFA World Cup qualification,Seoul,South Korea,False,826,0.19166619264739126,1.5,0.2874992889710869
+2024-02-06,Jordan,South Korea,2.0,0.0,AFC Asian Cup,Al Rayyan,Qatar,True,870,0.17552040061699686,0.75,0.13164030046274766
+2024-02-02,Australia,South Korea,1.0,2.0,AFC Asian Cup,Al Wakrah,Qatar,True,874,0.1741218391170474,0.75,0.13059137933778556
+2024-01-30,Saudi Arabia,South Korea,1.0,1.0,AFC Asian Cup,Al Rayyan,Qatar,True,877,0.17308023601645434,0.75,0.12981017701234077
+2026-06-04,Guatemala,Czech Republic,1.0,5.0,Friendly,Harrison,United States,True,21,0.9588697805724845,0.75,0.7191523354293634
+2026-05-31,Czech Republic,Kosovo,2.0,1.0,Friendly,Prague,Czech Republic,False,25,0.951229424500714,0.75,0.7134220683755355
+2026-03-31,Czech Republic,Denmark,2.0,2.0,FIFA World Cup qualification,Prague,Czech Republic,False,86,0.8419791731684999,1.5,1.26296875975275
+2026-03-26,Czech Republic,Republic of Ireland,2.0,2.0,FIFA World Cup qualification,Prague,Czech Republic,False,91,0.8336013404157353,1.5,1.250402010623603
+2025-11-17,Czech Republic,Gibraltar,6.0,0.0,FIFA World Cup qualification,Olomouc,Czech Republic,False,220,0.6440364210831414,1.5,0.9660546316247121
+2025-11-13,Czech Republic,San Marino,1.0,0.0,Friendly,Karviná,Czech Republic,False,224,0.6389046840319162,0.75,0.4791785130239372
+2025-10-12,Faroe Islands,Czech Republic,2.0,1.0,FIFA World Cup qualification,Tórshavn,Faroe Islands,False,256,0.5992957878455384,1.5,0.8989436817683076
+2025-10-09,Czech Republic,Croatia,0.0,0.0,FIFA World Cup qualification,Prague,Czech Republic,False,259,0.5957107789003212,1.5,0.8935661683504819
+2025-09-08,Czech Republic,Saudi Arabia,1.0,1.0,Friendly,Hradec Králové,Czech Republic,False,290,0.559898366565402,0.75,0.41992377492405153
+2025-09-05,Montenegro,Czech Republic,0.0,2.0,FIFA World Cup qualification,Podgorica,Montenegro,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-09,Croatia,Czech Republic,5.0,1.0,FIFA World Cup qualification,Osijek,Croatia,False,381,0.46673202886549986,1.5,0.7000980432982498
+2025-06-06,Czech Republic,Montenegro,2.0,0.0,FIFA World Cup qualification,Plzeň,Czech Republic,False,384,0.4639400210916467,1.5,0.6959100316374701
+2025-03-25,Gibraltar,Czech Republic,0.0,4.0,FIFA World Cup qualification,Faro-Loulé,Portugal,True,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-22,Czech Republic,Faroe Islands,2.0,1.0,FIFA World Cup qualification,Hradec Králové,Czech Republic,False,460,0.39851904108451414,1.5,0.5977785616267712
+2024-11-19,Czech Republic,Georgia,2.0,1.0,UEFA Nations League,Olomouc,Czech Republic,False,583,0.31161089527997105,1.1,0.34277198480796817
+2024-11-16,Albania,Czech Republic,0.0,0.0,UEFA Nations League,Tirana,Albania,False,586,0.3097468277032208,1.1,0.34072151047354293
+2024-10-14,Ukraine,Czech Republic,1.0,1.0,UEFA Nations League,Wrocław,Poland,True,619,0.2899635655294032,1.1,0.3189599220823436
+2024-10-11,Czech Republic,Albania,2.0,0.0,UEFA Nations League,Prague,Czech Republic,False,622,0.2882289930573573,1.1,0.317051892363093
+2024-09-10,Czech Republic,Ukraine,3.0,2.0,UEFA Nations League,Prague,Czech Republic,False,653,0.27090149805163766,1.1,0.29799164785680143
+2024-09-07,Georgia,Czech Republic,4.0,1.0,UEFA Nations League,Tbilisi,Georgia,False,656,0.26928095555244996,1.1,0.29620905110769497
+2024-06-26,Czech Republic,Turkey,1.0,2.0,UEFA Euro,Hamburg,Germany,True,729,0.23270121206157107,1.3,0.3025115756800424
+2024-06-22,Georgia,Czech Republic,1.0,1.0,UEFA Euro,Hamburg,Germany,True,733,0.23084702898634524,1.3,0.30010113768224883
+2024-06-18,Portugal,Czech Republic,2.0,1.0,UEFA Euro,Leipzig,Germany,True,737,0.2290076201997705,1.3,0.2977099062597017
+2024-06-10,Czech Republic,North Macedonia,2.0,1.0,Friendly,Hradec Králové,Czech Republic,False,745,0.22537265553943872,0.75,0.16902949165457903
+2024-06-07,Czech Republic,Malta,7.0,1.0,Friendly,Grödig,Austria,True,748,0.22402446821274175,0.75,0.16801835115955632
+2024-03-26,Czech Republic,Armenia,2.0,1.0,Friendly,Prague,Czech Republic,False,821,0.1935924699078839,0.75,0.14519435243091292
+2024-03-22,Norway,Czech Republic,1.0,2.0,Friendly,Oslo,Norway,False,825,0.19204990862075408,0.75,0.14403743146556555
+2026-06-24,Canada,Switzerland,1.0,2.0,FIFA World Cup,Vancouver,Canada,False,1,0.9980019986673331,1.5,1.4970029980009996
+2026-06-18,Canada,Qatar,6.0,0.0,FIFA World Cup,Vancouver,Canada,False,7,0.9860975442628619,1.5,1.4791463163942928
+2026-06-12,Canada,Bosnia and Herzegovina,1.0,1.0,FIFA World Cup,Toronto,Canada,False,13,0.9743350896087494,1.5,1.4615026344131241
+2026-06-05,Canada,Republic of Ireland,1.0,1.0,Friendly,Montreal,Canada,False,20,0.9607894391523232,0.75,0.7205920793642424
+2026-06-01,Canada,Uzbekistan,2.0,0.0,Friendly,Edmonton,Canada,False,24,0.9531337870775047,0.75,0.7148503403081286
+2026-03-31,Canada,Tunisia,0.0,0.0,Friendly,Toronto,Canada,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-28,Canada,Iceland,2.0,2.0,Friendly,Toronto,Canada,False,89,0.8369424234887681,0.75,0.6277068176165761
+2025-11-18,Canada,Venezuela,2.0,0.0,Friendly,Fort Lauderdale,United States,True,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-13,Canada,Ecuador,0.0,0.0,Friendly,Toronto,Canada,False,224,0.6389046840319162,0.75,0.4791785130239372
+2025-10-14,Canada,Colombia,0.0,0.0,Friendly,Harrison,United States,True,254,0.6016977717621094,0.75,0.451273328821582
+2025-10-10,Canada,Australia,0.0,1.0,Friendly,Montreal,Canada,False,258,0.596903392674358,0.75,0.44767754450576847
+2025-09-09,Wales,Canada,0.0,1.0,Friendly,Cardiff,Wales,False,289,0.5610192838421706,0.75,0.42076446288162794
+2025-09-05,Romania,Canada,0.0,3.0,Friendly,Bucharest,Romania,False,293,0.5565490344104649,0.75,0.41741177580784866
+2025-06-29,Canada,Guatemala,1.0,1.0,Gold Cup,Minneapolis,United States,True,361,0.485779724303885,1.15,0.5586466829494677
+2025-06-24,Canada,El Salvador,2.0,0.0,Gold Cup,Houston,United States,True,366,0.480946135285778,1.15,0.5530880555786447
+2025-06-21,Curaçao,Canada,1.0,1.0,Gold Cup,Houston,United States,True,369,0.4780690982163776,1.15,0.5497794629488342
+2025-06-17,Canada,Honduras,6.0,0.0,Gold Cup,Vancouver,Canada,False,373,0.4742598029280199,1.15,0.5453987733672229
+2025-06-10,Canada,Ivory Coast,0.0,0.0,Canadian Shield,Toronto,Canada,False,380,0.46766642700990924,0.75,0.35074982025743195
+2025-06-07,Canada,Ukraine,4.0,2.0,Canadian Shield,Toronto,Canada,False,383,0.46486882963276827,0.75,0.3486516222245762
+2025-03-23,United States,Canada,1.0,2.0,CONCACAF Nations League,Inglewood,United States,False,459,0.3993168767363899,1.1,0.4392485644100289
+2024-11-19,Canada,Suriname,3.0,0.0,CONCACAF Nations League,Toronto,Canada,False,583,0.31161089527997105,1.1,0.34277198480796817
+2024-11-15,Suriname,Canada,0.0,1.0,CONCACAF Nations League,Paramaribo,Suriname,False,587,0.30912795312868047,1.1,0.3400407484415485
+2024-10-15,Canada,Panama,2.0,1.0,Friendly,Toronto,Canada,False,618,0.2905440729744046,0.75,0.21790805473080344
+2024-09-10,Mexico,Canada,0.0,0.0,Friendly,Arlington,United States,True,653,0.27090149805163766,0.75,0.20317612353872824
+2024-09-07,United States,Canada,1.0,2.0,Friendly,Kansas City,United States,False,656,0.26928095555244996,0.75,0.20196071666433746
+2024-07-13,Canada,Uruguay,2.0,2.0,Copa América,Charlotte,United States,True,712,0.24074909196587688,0.75,0.18056181897440765
+2024-07-09,Argentina,Canada,2.0,0.0,Copa América,East Rutherford,United States,True,716,0.23883078269819244,0.75,0.17912308702364432
+2024-07-05,Venezuela,Canada,1.0,1.0,Copa América,Arlington,United States,True,720,0.23692775868212176,0.75,0.17769581901159132
+2024-06-29,Canada,Chile,0.0,0.0,Copa América,Orlando,United States,True,726,0.2341016163455822,0.75,0.17557621225918663
+2026-06-24,Bosnia and Herzegovina,Qatar,3.0,1.0,FIFA World Cup,Seattle,United States,True,1,0.9980019986673331,1.5,1.4970029980009996
+2026-06-18,Switzerland,Bosnia and Herzegovina,4.0,1.0,FIFA World Cup,Inglewood,United States,True,7,0.9860975442628619,1.5,1.4791463163942928
+2026-06-06,Panama,Bosnia and Herzegovina,1.0,1.0,Friendly,St. Louis,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-05-29,Bosnia and Herzegovina,North Macedonia,0.0,0.0,Friendly,Sarajevo,Bosnia and Herzegovina,False,27,0.9474321065017983,0.75,0.7105740798763487
+2026-03-31,Bosnia and Herzegovina,Italy,1.0,1.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,86,0.8419791731684999,1.5,1.26296875975275
+2026-03-26,Wales,Bosnia and Herzegovina,1.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False,91,0.8336013404157353,1.5,1.250402010623603
+2025-11-18,Austria,Bosnia and Herzegovina,1.0,1.0,FIFA World Cup qualification,Vienna,Austria,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-15,Bosnia and Herzegovina,Romania,3.0,1.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,222,0.6414654208273198,1.5,0.9621981312409797
+2025-10-12,Malta,Bosnia and Herzegovina,1.0,4.0,Friendly,Ta' Qali,Malta,False,256,0.5992957878455384,0.75,0.4494718408841538
+2025-10-09,Cyprus,Bosnia and Herzegovina,2.0,2.0,FIFA World Cup qualification,Larnaca,Cyprus,False,259,0.5957107789003212,1.5,0.8935661683504819
+2025-09-09,Bosnia and Herzegovina,Austria,1.0,2.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-06,San Marino,Bosnia and Herzegovina,0.0,6.0,FIFA World Cup qualification,Serravalle,San Marino,False,292,0.5576632463197913,1.5,0.8364948694796869
+2025-06-10,Slovenia,Bosnia and Herzegovina,2.0,1.0,Friendly,Celje,Slovenia,False,380,0.46766642700990924,0.75,0.35074982025743195
+2025-06-07,Bosnia and Herzegovina,San Marino,1.0,0.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,383,0.46486882963276827,1.5,0.6973032444491524
+2025-03-24,Bosnia and Herzegovina,Cyprus,2.0,1.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,458,0.40011630965630496,1.5,0.6001744644844574
+2025-03-21,Romania,Bosnia and Herzegovina,0.0,1.0,FIFA World Cup qualification,Bucharest,Romania,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-19,Bosnia and Herzegovina,Netherlands,1.0,1.0,UEFA Nations League,Zenica,Bosnia and Herzegovina,False,583,0.31161089527997105,1.1,0.34277198480796817
+2024-11-16,Germany,Bosnia and Herzegovina,7.0,0.0,UEFA Nations League,Freiburg,Germany,False,586,0.3097468277032208,1.1,0.34072151047354293
+2024-10-14,Bosnia and Herzegovina,Hungary,0.0,2.0,UEFA Nations League,Zenica,Bosnia and Herzegovina,False,619,0.2899635655294032,1.1,0.3189599220823436
+2024-10-11,Bosnia and Herzegovina,Germany,1.0,2.0,UEFA Nations League,Zenica,Bosnia and Herzegovina,False,622,0.2882289930573573,1.1,0.317051892363093
+2024-09-10,Hungary,Bosnia and Herzegovina,0.0,0.0,UEFA Nations League,Budapest,Hungary,False,653,0.27090149805163766,1.1,0.29799164785680143
+2024-09-07,Netherlands,Bosnia and Herzegovina,5.0,2.0,UEFA Nations League,Eindhoven,Netherlands,False,656,0.26928095555244996,1.1,0.29620905110769497
+2024-06-09,Italy,Bosnia and Herzegovina,1.0,0.0,Friendly,Empoli,Italy,False,746,0.22492236067332425,0.75,0.16869177050499318
+2024-06-03,England,Bosnia and Herzegovina,3.0,0.0,Friendly,Newcastle,England,False,752,0.2222394221714404,0.75,0.1666795666285803
+2024-03-21,Bosnia and Herzegovina,Ukraine,1.0,2.0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,826,0.19166619264739126,1.25,0.23958274080923908
+2023-11-19,Bosnia and Herzegovina,Slovakia,1.0,2.0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,949,0.14986805579784332,1.25,0.18733506974730416
+2023-11-16,Luxembourg,Bosnia and Herzegovina,4.0,1.0,UEFA Euro qualification,Luxembourg,Luxembourg,False,952,0.1489715397008938,1.25,0.18621442462611726
+2023-10-16,Bosnia and Herzegovina,Portugal,0.0,5.0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,983,0.1400158007837894,1.25,0.17501975097973674
+2023-10-13,Liechtenstein,Bosnia and Herzegovina,0.0,2.0,UEFA Euro qualification,Vaduz,Liechtenstein,False,986,0.13917822123048373,1.25,0.17397277653810467
+2026-06-13,Qatar,Switzerland,1.0,1.0,FIFA World Cup,Santa Clara,United States,True,12,0.9762857097579093,1.5,1.464428564636864
+2026-06-06,Qatar,El Salvador,0.0,0.0,Friendly,Los Angeles,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-05-28,Republic of Ireland,Qatar,1.0,0.0,Friendly,Dublin,Republic of Ireland,False,28,0.9455391358903963,0.75,0.7091543519177972
+2025-12-07,Qatar,Tunisia,0.0,3.0,Arab Cup,Al Khor,Qatar,False,200,0.6703200460356393,0.75,0.5027400345267294
+2025-12-04,Qatar,Syria,1.0,1.0,Arab Cup,Al Rayyan,Qatar,False,203,0.6663101674248864,0.75,0.49973262556866477
+2025-12-01,Qatar,Palestine,0.0,1.0,Arab Cup,Al Khor,Qatar,False,206,0.6623242760521222,0.75,0.49674320703909164
+2025-11-17,Qatar,Zimbabwe,1.0,2.0,Friendly,Al Rayyan,Qatar,False,220,0.6440364210831414,0.75,0.48302731581235603
+2025-10-14,Qatar,United Arab Emirates,2.0,1.0,FIFA World Cup qualification,Al Rayyan,Qatar,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-08,Qatar,Oman,0.0,0.0,FIFA World Cup qualification,Al Rayyan,Qatar,False,260,0.5945205479701944,1.5,0.8917808219552916
+2025-09-07,Qatar,Russia,1.0,4.0,Friendly,Doha,Qatar,False,291,0.5587796888828463,0.75,0.4190847666621348
+2025-09-03,Qatar,Bahrain,2.0,2.0,Friendly,Doha,Qatar,False,295,0.5543272847345071,0.75,0.4157454635508803
+2025-08-24,Qatar,Lebanon,2.0,2.0,Friendly,Doha,Qatar,False,305,0.5433508690744998,0.75,0.4075131518058749
+2025-06-10,Uzbekistan,Qatar,3.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-05,Qatar,Iran,1.0,0.0,FIFA World Cup qualification,Al Rayyan,Qatar,False,385,0.46301306831122807,1.5,0.6945196024668421
+2025-03-25,Kyrgyzstan,Qatar,3.0,1.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,Qatar,North Korea,5.0,1.0,FIFA World Cup qualification,Al Rayyan,Qatar,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-12-27,Kuwait,Qatar,1.0,1.0,Gulf Cup,Kuwait City,Kuwait,False,545,0.33621649370673334,0.75,0.25216237028005
+2024-12-24,Oman,Qatar,2.0,1.0,Gulf Cup,Sulaibikhat,Kuwait,True,548,0.33420523455571977,0.75,0.2506539259167898
+2024-12-21,Qatar,United Arab Emirates,1.0,1.0,Gulf Cup,Sulaibikhat,Kuwait,True,551,0.33220600682924445,0.75,0.24915450512193332
+2024-11-19,United Arab Emirates,Qatar,5.0,0.0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-14,Qatar,Uzbekistan,3.0,2.0,FIFA World Cup qualification,Al Rayyan,Qatar,False,588,0.3085103150663647,1.5,0.4627654725995471
+2024-10-15,Iran,Qatar,4.0,1.0,FIFA World Cup qualification,Dubai,United Arab Emirates,True,618,0.2905440729744046,1.5,0.43581610946160687
+2024-10-10,Qatar,Kyrgyzstan,3.0,1.0,FIFA World Cup qualification,Doha,Qatar,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-10,North Korea,Qatar,2.0,2.0,FIFA World Cup qualification,Vientiane,Laos,True,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-05,Qatar,United Arab Emirates,1.0,3.0,FIFA World Cup qualification,Al Rayyan,Qatar,False,658,0.2682059831084244,1.5,0.4023089746626366
+2024-06-11,Qatar,India,2.0,1.0,FIFA World Cup qualification,Al Rayyan,Qatar,False,744,0.22582385189647586,1.5,0.33873577784471376
+2024-06-06,Afghanistan,Qatar,0.0,0.0,FIFA World Cup qualification,Al Hofuf,Saudi Arabia,True,749,0.22357686702670268,1.5,0.33536530054005403
+2024-03-26,Kuwait,Qatar,1.0,2.0,FIFA World Cup qualification,Al Farwaniyah,Kuwait,False,821,0.1935924699078839,1.5,0.29038870486182583
+2026-06-06,Australia,Switzerland,1.0,1.0,Friendly,San Diego,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-05-31,Switzerland,Jordan,4.0,1.0,Friendly,St. Gallen,Switzerland,False,25,0.951229424500714,0.75,0.7134220683755355
+2026-03-31,Norway,Switzerland,0.0,0.0,Friendly,Oslo,Norway,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,Switzerland,Germany,3.0,4.0,Friendly,Basel,Switzerland,False,90,0.835270211411272,0.75,0.626452658558454
+2025-11-18,Kosovo,Switzerland,1.0,1.0,FIFA World Cup qualification,Pristina,Kosovo,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-15,Switzerland,Sweden,4.0,1.0,FIFA World Cup qualification,Geneva,Switzerland,False,222,0.6414654208273198,1.5,0.9621981312409797
+2025-10-13,Slovenia,Switzerland,0.0,0.0,FIFA World Cup qualification,Ljubljana,Slovenia,False,255,0.6004955788122659,1.5,0.9007433682183988
+2025-10-10,Sweden,Switzerland,0.0,2.0,FIFA World Cup qualification,Solna,Sweden,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-08,Switzerland,Slovenia,3.0,0.0,FIFA World Cup qualification,Basel,Switzerland,False,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-05,Switzerland,Kosovo,4.0,0.0,FIFA World Cup qualification,Basel,Switzerland,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-10,United States,Switzerland,0.0,4.0,Friendly,Nashville,United States,False,380,0.46766642700990924,0.75,0.35074982025743195
+2025-03-25,Switzerland,Luxembourg,3.0,1.0,Friendly,St. Gallen,Switzerland,False,457,0.4009173430419921,0.75,0.3006880072814941
+2025-03-21,Northern Ireland,Switzerland,1.0,1.0,Friendly,Belfast,Northern Ireland,False,461,0.39772279950933415,0.75,0.2982920996320006
+2024-11-18,Spain,Switzerland,3.0,2.0,UEFA Nations League,Santa Cruz de Tenerife,Spain,False,584,0.3109882962959281,1.1,0.34208712592552093
+2024-11-15,Switzerland,Serbia,1.0,1.0,UEFA Nations League,Zürich,Switzerland,False,587,0.30912795312868047,1.1,0.3400407484415485
+2024-10-15,Switzerland,Denmark,2.0,2.0,UEFA Nations League,St. Gallen,Switzerland,False,618,0.2905440729744046,1.1,0.31959848027184506
+2024-10-12,Serbia,Switzerland,2.0,0.0,UEFA Nations League,Leskovac,Serbia,False,621,0.28880602788595566,1.1,0.3176866306745513
+2024-09-08,Switzerland,Spain,1.0,4.0,UEFA Nations League,Geneva,Switzerland,False,655,0.2698200563846868,1.1,0.2968020620231555
+2024-09-05,Denmark,Switzerland,2.0,0.0,UEFA Nations League,Copenhagen,Denmark,False,658,0.2682059831084244,1.1,0.2950265814192669
+2024-07-06,England,Switzerland,1.0,1.0,UEFA Euro,Düsseldorf,Germany,True,719,0.23740208837106508,1.3,0.30862271488238463
+2024-06-29,Switzerland,Italy,2.0,0.0,UEFA Euro,Berlin,Germany,True,726,0.2341016163455822,1.3,0.30433210124925686
+2024-06-23,Germany,Switzerland,1.0,1.0,UEFA Euro,Frankfurt,Germany,False,732,0.23130918504632592,1.3,0.3007019405602237
+2024-06-19,Scotland,Switzerland,1.0,1.0,UEFA Euro,Cologne,Germany,True,736,0.22946609376090668,1.3,0.2983059218891787
+2024-06-15,Hungary,Switzerland,1.0,3.0,UEFA Euro,Cologne,Germany,True,740,0.22763768838381274,1.3,0.2959289948989566
+2024-06-08,Switzerland,Austria,1.0,1.0,Friendly,St. Gallen,Switzerland,False,747,0.22447296549695234,0.75,0.16835472412271424
+2024-06-04,Switzerland,Estonia,4.0,0.0,Friendly,Lucerne,Switzerland,False,751,0.22268434579109508,0.75,0.1670132593433213
+2026-06-24,Scotland,Brazil,0.0,3.0,FIFA World Cup,Miami Gardens,United States,True,1,0.9980019986673331,1.5,1.4970029980009996
+2026-06-19,Brazil,Haiti,3.0,0.0,FIFA World Cup,Philadelphia,United States,True,6,0.9880717128619305,1.5,1.4821075692928958
+2026-06-13,Brazil,Morocco,1.0,1.0,FIFA World Cup,East Rutherford,United States,True,12,0.9762857097579093,1.5,1.464428564636864
+2026-06-06,Brazil,Egypt,2.0,1.0,Friendly,Cleveland,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-05-31,Brazil,Panama,6.0,2.0,Friendly,Rio de Janeiro,Brazil,False,25,0.951229424500714,0.75,0.7134220683755355
+2026-03-31,Brazil,Croatia,3.0,1.0,Friendly,Orlando,United States,True,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-26,Brazil,France,1.0,2.0,Friendly,Foxborough,United States,True,91,0.8336013404157353,0.75,0.6252010053118014
+2025-11-18,Brazil,Tunisia,1.0,1.0,Friendly,Lille,France,True,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-15,Brazil,Senegal,2.0,0.0,Friendly,London,England,True,222,0.6414654208273198,0.75,0.4810990656204899
+2025-10-14,Japan,Brazil,3.0,2.0,Kirin Cup,Tokyo,Japan,False,254,0.6016977717621094,0.75,0.451273328821582
+2025-09-09,Bolivia,Brazil,1.0,0.0,FIFA World Cup qualification,El Alto,Bolivia,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-04,Brazil,Chile,3.0,0.0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-10,Brazil,Paraguay,1.0,0.0,FIFA World Cup qualification,São Paulo,Brazil,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-05,Ecuador,Brazil,0.0,0.0,FIFA World Cup qualification,Guayaquil,Ecuador,False,385,0.46301306831122807,1.5,0.6945196024668421
+2025-03-25,Argentina,Brazil,4.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,Brazil,Colombia,2.0,1.0,FIFA World Cup qualification,Brasília,Brazil,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-11-19,Brazil,Uruguay,1.0,1.0,FIFA World Cup qualification,Salvador,Brazil,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-14,Venezuela,Brazil,1.0,1.0,FIFA World Cup qualification,Maturín,Venezuela,False,588,0.3085103150663647,1.5,0.4627654725995471
+2024-10-15,Brazil,Peru,4.0,0.0,FIFA World Cup qualification,Brasília,Brazil,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-10-10,Chile,Brazil,1.0,2.0,FIFA World Cup qualification,Santiago,Chile,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-10,Paraguay,Brazil,1.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-06,Brazil,Ecuador,1.0,0.0,FIFA World Cup qualification,Curitiba,Brazil,False,657,0.26874293184439435,1.5,0.4031143977665915
+2024-07-06,Uruguay,Brazil,0.0,0.0,Copa América,Las Vegas,United States,True,719,0.23740208837106508,0.75,0.17805156627829882
+2024-07-02,Brazil,Colombia,1.0,1.0,Copa América,Santa Clara,United States,True,723,0.23551044831306475,0.75,0.17663283623479856
+2024-06-28,Paraguay,Brazil,1.0,4.0,Copa América,Las Vegas,United States,True,727,0.23363388100414423,0.75,0.17522541075310816
+2024-06-24,Brazil,Costa Rica,0.0,0.0,Copa América,Inglewood,United States,True,731,0.23177226634335515,0.75,0.17382919975751637
+2024-06-12,United States,Brazil,1.0,1.0,Friendly,Orlando,United States,False,743,0.2262759515492217,0.75,0.1697069636619163
+2024-06-08,Mexico,Brazil,2.0,3.0,Friendly,College Station,United States,True,747,0.22447296549695234,0.75,0.16835472412271424
+2024-03-26,Spain,Brazil,3.0,3.0,Friendly,Madrid,Spain,False,821,0.1935924699078839,0.75,0.14519435243091292
+2026-06-24,Morocco,Haiti,4.0,2.0,FIFA World Cup,Atlanta,United States,True,1,0.9980019986673331,1.5,1.4970029980009996
+2026-06-19,Scotland,Morocco,0.0,1.0,FIFA World Cup,Foxborough,United States,True,6,0.9880717128619305,1.5,1.4821075692928958
+2026-06-07,Morocco,Norway,1.0,1.0,Friendly,Harrison,United States,True,18,0.9646402934831231,0.75,0.7234802201123423
+2026-06-02,Morocco,Madagascar,4.0,0.0,Friendly,Rabat,Morocco,False,23,0.9550419621907147,0.75,0.716281471643036
+2026-05-26,Morocco,Burundi,5.0,0.0,Friendly,Salé,Morocco,False,30,0.9417645335842487,0.75,0.7063234001881865
+2026-03-31,Morocco,Paraguay,2.0,1.0,Friendly,Lens,France,True,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,Morocco,Ecuador,1.0,1.0,Friendly,Madrid,Spain,True,90,0.835270211411272,0.75,0.626452658558454
+2026-01-18,Morocco,Senegal,3.0,0.0,African Cup of Nations,Rabat,Morocco,False,158,0.7290594501676237,1.1,0.8019653951843861
+2026-01-14,Morocco,Nigeria,0.0,0.0,African Cup of Nations,Rabat,Morocco,False,162,0.7232502423798424,1.1,0.7955752666178266
+2026-01-09,Morocco,Cameroon,2.0,0.0,African Cup of Nations,Rabat,Morocco,False,167,0.7160537822272085,1.1,0.7876591604499295
+2026-01-04,Morocco,Tanzania,1.0,0.0,African Cup of Nations,Rabat,Morocco,False,172,0.7089289280495107,1.1,0.7798218208544618
+2025-12-29,Morocco,Zambia,3.0,0.0,African Cup of Nations,Rabat,Morocco,False,178,0.7004726202352524,1.1,0.7705198822587777
+2025-12-26,Morocco,Mali,1.0,1.0,African Cup of Nations,Rabat,Morocco,False,181,0.696282367841771,1.1,0.7659106046259482
+2025-12-21,Morocco,Comoros,2.0,0.0,African Cup of Nations,Rabat,Morocco,False,186,0.6893542425242224,1.1,0.7582896667766447
+2025-12-18,Jordan,Morocco,2.0,3.0,Arab Cup,Lusail,Qatar,True,189,0.6852305006658703,0.75,0.5139228754994027
+2025-12-15,Morocco,United Arab Emirates,3.0,0.0,Arab Cup,Al Rayyan,Qatar,True,192,0.6811314271795471,0.75,0.5108485703846604
+2025-12-11,Morocco,Syria,1.0,0.0,Arab Cup,Al Rayyan,Qatar,True,196,0.675704113960626,0.75,0.5067780854704695
+2025-12-08,Morocco,Saudi Arabia,1.0,0.0,Arab Cup,Lusail,Qatar,True,199,0.6716620276620098,0.75,0.5037465207465073
+2025-12-05,Oman,Morocco,0.0,0.0,Arab Cup,Al Rayyan,Qatar,True,202,0.6676441212689289,0.75,0.5007330909516967
+2025-12-02,Morocco,Comoros,3.0,1.0,Arab Cup,Al Rayyan,Qatar,True,205,0.6636502501363194,0.75,0.4977376876022396
+2025-11-18,Morocco,Uganda,4.0,0.0,Friendly,Tangier,Morocco,False,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-14,Morocco,Mozambique,1.0,0.0,Friendly,Tangier,Morocco,False,223,0.6401837720616471,0.75,0.48013782904623536
+2025-10-14,Morocco,Congo,1.0,0.0,FIFA World Cup qualification,Rabat,Morocco,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-09,Morocco,Bahrain,1.0,0.0,Friendly,Rabat,Morocco,False,259,0.5957107789003212,0.75,0.44678308417524093
+2025-09-08,Zambia,Morocco,0.0,2.0,FIFA World Cup qualification,Ndola,Zambia,False,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-05,Morocco,Niger,5.0,0.0,FIFA World Cup qualification,Rabat,Morocco,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-09,Morocco,Benin,1.0,0.0,Friendly,Fez,Morocco,False,381,0.46673202886549986,0.75,0.3500490216491249
+2025-06-06,Morocco,Tunisia,2.0,0.0,Friendly,Fez,Morocco,False,384,0.4639400210916467,0.75,0.34795501581873506
+2025-03-25,Morocco,Tanzania,2.0,0.0,FIFA World Cup qualification,Oujda,Morocco,False,457,0.4009173430419921,1.5,0.6013760145629882
+2026-06-13,Haiti,Scotland,0.0,1.0,FIFA World Cup,Foxborough,United States,True,12,0.9762857097579093,1.5,1.464428564636864
+2026-06-05,Haiti,Peru,1.0,2.0,Friendly,Miami,United States,True,20,0.9607894391523232,0.75,0.7205920793642424
+2026-06-02,Haiti,New Zealand,4.0,0.0,Friendly,Fort Lauderdale,United States,True,23,0.9550419621907147,0.75,0.716281471643036
+2026-03-31,Haiti,Iceland,1.0,1.0,Friendly,Toronto,Canada,True,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-28,Haiti,Tunisia,0.0,1.0,Friendly,Toronto,Canada,True,89,0.8369424234887681,0.75,0.6277068176165761
+2025-11-18,Haiti,Nicaragua,2.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,True,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-13,Haiti,Costa Rica,1.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,True,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-13,Honduras,Haiti,3.0,0.0,FIFA World Cup qualification,Tegucigalpa,Honduras,False,255,0.6004955788122659,1.5,0.9007433682183988
+2025-10-09,Nicaragua,Haiti,0.0,3.0,FIFA World Cup qualification,Managua,Nicaragua,False,259,0.5957107789003212,1.5,0.8935661683504819
+2025-09-09,Costa Rica,Haiti,3.0,3.0,FIFA World Cup qualification,San José,Costa Rica,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-05,Haiti,Honduras,0.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,True,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-22,United States,Haiti,2.0,1.0,Gold Cup,Arlington,United States,False,368,0.4790261931887511,1.15,0.5508801221670637
+2025-06-19,Trinidad and Tobago,Haiti,1.0,1.0,Gold Cup,Houston,United States,True,371,0.4761606412819894,1.15,0.5475847374742878
+2025-06-15,Haiti,Saudi Arabia,0.0,1.0,Gold Cup,San Diego,United States,True,375,0.4723665527410147,1.15,0.5432215356521668
+2025-06-10,Haiti,Curaçao,1.0,5.0,FIFA World Cup qualification,Oranjestad,Aruba,True,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-07,Aruba,Haiti,0.0,5.0,FIFA World Cup qualification,Oranjestad,Aruba,False,383,0.46486882963276827,1.5,0.6973032444491524
+2025-03-22,Azerbaijan,Haiti,0.0,3.0,Friendly,Sumgait,Azerbaijan,False,460,0.39851904108451414,0.75,0.2988892808133856
+2024-11-18,Puerto Rico,Haiti,0.0,3.0,CONCACAF Nations League,Mayagüez,Puerto Rico,False,584,0.3109882962959281,1.1,0.34208712592552093
+2024-11-15,Sint Maarten,Haiti,0.0,8.0,CONCACAF Nations League,Mayagüez,Puerto Rico,True,587,0.30912795312868047,1.1,0.3400407484415485
+2024-10-14,Aruba,Haiti,3.0,5.0,CONCACAF Nations League,Oranjestad,Aruba,False,619,0.2899635655294032,1.1,0.3189599220823436
+2024-10-11,Aruba,Haiti,1.0,3.0,CONCACAF Nations League,Oranjestad,Aruba,False,622,0.2882289930573573,1.1,0.317051892363093
+2024-09-09,Haiti,Sint Maarten,6.0,0.0,CONCACAF Nations League,Mayagüez,Puerto Rico,True,654,0.270360236497509,1.1,0.29739626014725995
+2024-09-06,Puerto Rico,Haiti,1.0,4.0,CONCACAF Nations League,Mayagüez,Puerto Rico,False,657,0.26874293184439435,1.1,0.2956172250288338
+2024-06-09,Barbados,Haiti,1.0,3.0,FIFA World Cup qualification,Bridgetown,Barbados,False,746,0.22492236067332425,1.5,0.33738354100998635
+2024-06-06,Haiti,Saint Lucia,2.0,1.0,FIFA World Cup qualification,Bridgetown,Barbados,True,749,0.22357686702670268,1.5,0.33536530054005403
+2023-10-15,Haiti,Jamaica,2.0,3.0,CONCACAF Nations League,Port of Spain,Trinidad and Tobago,True,984,0.13973604902722894,1.1,0.15370965392995184
+2023-10-12,Suriname,Haiti,1.0,1.0,CONCACAF Nations League,Paramaribo,Suriname,False,987,0.138900142958987,1.1,0.1527901572548857
+2023-09-12,Jamaica,Haiti,2.0,2.0,CONCACAF Nations League,Kingston,Jamaica,False,1017,0.13081122834855582,1.1,0.14389235118341143
+2026-06-06,Bolivia,Scotland,0.0,4.0,Friendly,Harrison,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-05-30,Scotland,Curaçao,4.0,1.0,Friendly,Glasgow,Scotland,False,26,0.9493288668428895,0.75,0.7119966501321672
+2026-03-31,Ivory Coast,Scotland,1.0,0.0,Friendly,Liverpool,England,True,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-28,Scotland,Japan,0.0,1.0,Friendly,Glasgow,Scotland,False,89,0.8369424234887681,0.75,0.6277068176165761
+2025-11-18,Scotland,Denmark,4.0,2.0,FIFA World Cup qualification,Glasgow,Scotland,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-15,Greece,Scotland,3.0,2.0,FIFA World Cup qualification,Piraeus,Greece,False,222,0.6414654208273198,1.5,0.9621981312409797
+2025-10-12,Scotland,Belarus,2.0,1.0,FIFA World Cup qualification,Glasgow,Scotland,False,256,0.5992957878455384,1.5,0.8989436817683076
+2025-10-09,Scotland,Greece,3.0,1.0,FIFA World Cup qualification,Glasgow,Scotland,False,259,0.5957107789003212,1.5,0.8935661683504819
+2025-09-08,Belarus,Scotland,0.0,2.0,FIFA World Cup qualification,Zalaegerszeg,Hungary,True,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-05,Denmark,Scotland,0.0,0.0,FIFA World Cup qualification,Copenhagen,Denmark,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-09,Liechtenstein,Scotland,0.0,4.0,Friendly,Vaduz,Liechtenstein,False,381,0.46673202886549986,0.75,0.3500490216491249
+2025-06-06,Scotland,Iceland,1.0,3.0,Friendly,Glasgow,Scotland,False,384,0.4639400210916467,0.75,0.34795501581873506
+2025-03-23,Scotland,Greece,0.0,3.0,UEFA Nations League,Glasgow,Scotland,False,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Greece,Scotland,0.0,1.0,UEFA Nations League,Piraeus,Greece,False,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-18,Poland,Scotland,1.0,2.0,UEFA Nations League,Warsaw,Poland,False,584,0.3109882962959281,1.1,0.34208712592552093
+2024-11-15,Scotland,Croatia,1.0,0.0,UEFA Nations League,Glasgow,Scotland,False,587,0.30912795312868047,1.1,0.3400407484415485
+2024-10-15,Scotland,Portugal,0.0,0.0,UEFA Nations League,Glasgow,Scotland,False,618,0.2905440729744046,1.1,0.31959848027184506
+2024-10-12,Croatia,Scotland,2.0,1.0,UEFA Nations League,Zagreb,Croatia,False,621,0.28880602788595566,1.1,0.3176866306745513
+2024-09-08,Portugal,Scotland,2.0,1.0,UEFA Nations League,Lisbon,Portugal,False,655,0.2698200563846868,1.1,0.2968020620231555
+2024-09-05,Scotland,Poland,2.0,3.0,UEFA Nations League,Glasgow,Scotland,False,658,0.2682059831084244,1.1,0.2950265814192669
+2024-06-23,Scotland,Hungary,0.0,1.0,UEFA Euro,Stuttgart,Germany,True,732,0.23130918504632592,1.3,0.3007019405602237
+2024-06-14,Germany,Scotland,5.0,1.0,UEFA Euro,Munich,Germany,False,741,0.22718286797905665,1.3,0.29533772837277367
+2024-06-07,Scotland,Finland,2.0,2.0,Friendly,Glasgow,Scotland,False,748,0.22402446821274175,0.75,0.16801835115955632
+2024-06-03,Gibraltar,Scotland,0.0,2.0,Friendly,Faro-Loulé,Portugal,True,752,0.2222394221714404,0.75,0.1666795666285803
+2024-03-26,Scotland,Northern Ireland,0.0,1.0,Friendly,Glasgow,Scotland,False,821,0.1935924699078839,0.75,0.14519435243091292
+2024-03-22,Netherlands,Scotland,4.0,0.0,Friendly,Amsterdam,Netherlands,False,825,0.19204990862075408,0.75,0.14403743146556555
+2026-06-25,United States,Turkey,2.0,3.0,FIFA World Cup,Inglewood,United States,False,0,1.0,1.5,1.5
+2026-06-19,United States,Australia,2.0,0.0,FIFA World Cup,Seattle,United States,False,6,0.9880717128619305,1.5,1.4821075692928958
+2026-06-12,United States,Paraguay,4.0,1.0,FIFA World Cup,Inglewood,United States,False,13,0.9743350896087494,1.5,1.4615026344131241
+2026-06-06,United States,Germany,1.0,2.0,Friendly,Chicago,United States,False,19,0.9627129408911995,0.75,0.7220347056683997
+2026-05-31,United States,Senegal,3.0,2.0,Friendly,Charlotte,United States,False,25,0.951229424500714,0.75,0.7134220683755355
+2026-03-31,United States,Portugal,0.0,2.0,Friendly,Atlanta,United States,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-28,United States,Belgium,2.0,5.0,Friendly,Atlanta,United States,False,89,0.8369424234887681,0.75,0.6277068176165761
+2025-11-18,United States,Uruguay,5.0,1.0,Friendly,Tampa,United States,False,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-15,United States,Paraguay,2.0,1.0,Friendly,Chester,United States,False,222,0.6414654208273198,0.75,0.4810990656204899
+2025-10-14,United States,Australia,2.0,1.0,Friendly,Denver,United States,False,254,0.6016977717621094,0.75,0.451273328821582
+2025-10-10,United States,Ecuador,1.0,1.0,Friendly,Austin,United States,False,258,0.596903392674358,0.75,0.44767754450576847
+2025-09-09,United States,Japan,2.0,0.0,Friendly,Columbus,United States,False,289,0.5610192838421706,0.75,0.42076446288162794
+2025-07-02,United States,Guatemala,2.0,1.0,Gold Cup,St. Louis,United States,False,358,0.4887031641990795,1.15,0.5620086388289414
+2025-06-29,United States,Costa Rica,2.0,2.0,Gold Cup,Minneapolis,United States,False,361,0.485779724303885,1.15,0.5586466829494677
+2025-06-19,United States,Saudi Arabia,1.0,0.0,Gold Cup,Austin,United States,False,371,0.4761606412819894,1.15,0.5475847374742878
+2025-06-15,United States,Trinidad and Tobago,5.0,0.0,Gold Cup,San Jose,United States,False,375,0.4723665527410147,1.15,0.5432215356521668
+2025-06-07,United States,Turkey,1.0,2.0,Friendly,East Hartford,United States,False,383,0.46486882963276827,0.75,0.3486516222245762
+2025-03-20,United States,Panama,0.0,1.0,CONCACAF Nations League,Inglewood,United States,False,462,0.39692814882588245,1.1,0.43662096370847076
+2025-01-22,United States,Costa Rica,3.0,0.0,Friendly,Orlando,United States,False,519,0.35416229870357024,0.75,0.2656217240276777
+2025-01-18,United States,Venezuela,3.0,1.0,Friendly,Fort Lauderdale,United States,False,523,0.3513403033459978,0.75,0.26350522750949834
+2024-11-18,United States,Jamaica,4.0,2.0,CONCACAF Nations League,St. Louis,United States,False,584,0.3109882962959281,1.1,0.34208712592552093
+2024-11-14,Jamaica,United States,0.0,1.0,CONCACAF Nations League,Kingston,Jamaica,False,588,0.3085103150663647,1.1,0.3393613465730012
+2024-10-12,United States,Panama,2.0,0.0,Friendly,Austin,United States,False,621,0.28880602788595566,0.75,0.21660452091446675
+2024-09-10,United States,New Zealand,1.0,1.0,Friendly,Cincinnati,United States,False,653,0.27090149805163766,0.75,0.20317612353872824
+2026-06-25,Paraguay,Australia,0.0,0.0,FIFA World Cup,Santa Clara,United States,True,0,1.0,1.5,1.5
+2026-06-19,Turkey,Paraguay,0.0,1.0,FIFA World Cup,Santa Clara,United States,True,6,0.9880717128619305,1.5,1.4821075692928958
+2026-06-05,Paraguay,Nicaragua,4.0,0.0,Friendly,Asunción,Paraguay,False,20,0.9607894391523232,0.75,0.7205920793642424
+2026-03-27,Greece,Paraguay,0.0,1.0,Friendly,Athens,Greece,False,90,0.835270211411272,0.75,0.626452658558454
+2025-10-10,Japan,Paraguay,2.0,2.0,Kirin Cup,Osaka,Japan,False,258,0.596903392674358,0.75,0.44767754450576847
+2025-09-09,Peru,Paraguay,0.0,1.0,FIFA World Cup qualification,Lima,Peru,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-04,Paraguay,Ecuador,0.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-05,Paraguay,Uruguay,2.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False,385,0.46301306831122807,1.5,0.6945196024668421
+2025-03-25,Colombia,Paraguay,2.0,2.0,FIFA World Cup qualification,Barranquilla,Colombia,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,Paraguay,Chile,1.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-11-19,Bolivia,Paraguay,2.0,2.0,FIFA World Cup qualification,El Alto,Bolivia,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-14,Paraguay,Argentina,2.0,1.0,FIFA World Cup qualification,Asunción,Paraguay,False,588,0.3085103150663647,1.5,0.4627654725995471
+2024-10-15,Paraguay,Venezuela,2.0,1.0,FIFA World Cup qualification,Asunción,Paraguay,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-10-10,Ecuador,Paraguay,0.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-06,Uruguay,Paraguay,0.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,657,0.26874293184439435,1.5,0.4031143977665915
+2024-07-02,Costa Rica,Paraguay,2.0,1.0,Copa América,Austin,United States,True,723,0.23551044831306475,0.75,0.17663283623479856
+2024-06-24,Colombia,Paraguay,2.0,1.0,Copa América,Houston,United States,True,731,0.23177226634335515,0.75,0.17382919975751637
+2024-06-16,Panama,Paraguay,0.0,1.0,Friendly,Panama City,Panama,False,739,0.22809341933962587,0.75,0.1710700645047194
+2024-06-11,Chile,Paraguay,3.0,0.0,Friendly,Santiago,Chile,False,744,0.22582385189647586,0.75,0.16936788892235688
+2024-06-07,Peru,Paraguay,0.0,0.0,Friendly,Lima,Peru,False,748,0.22402446821274175,0.75,0.16801835115955632
+2023-11-21,Paraguay,Colombia,0.0,1.0,FIFA World Cup qualification,Asunción,Paraguay,False,947,0.15046872856567356,1.5,0.22570309284851034
+2023-11-16,Chile,Paraguay,0.0,0.0,FIFA World Cup qualification,Santiago,Chile,False,952,0.1489715397008938,1.5,0.2234573095513407
+2026-06-13,Australia,Turkey,2.0,0.0,FIFA World Cup,Vancouver,Canada,True,12,0.9762857097579093,1.5,1.464428564636864
+2026-03-31,Australia,Curaçao,5.0,1.0,FIFA Series,Melbourne,Australia,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,Australia,Cameroon,1.0,0.0,FIFA Series,Sydney,Australia,False,90,0.835270211411272,0.75,0.626452658558454
+2025-11-18,Colombia,Australia,3.0,0.0,Friendly,New York,United States,True,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-14,Australia,Venezuela,0.0,1.0,Friendly,Houston,United States,True,223,0.6401837720616471,0.75,0.48013782904623536
+2025-09-09,New Zealand,Australia,1.0,3.0,Soccer Ashes,Auckland,New Zealand,False,289,0.5610192838421706,0.75,0.42076446288162794
+2025-09-05,Australia,New Zealand,1.0,0.0,Soccer Ashes,Canberra,Australia,False,293,0.5565490344104649,0.75,0.41741177580784866
+2025-06-10,Saudi Arabia,Australia,1.0,2.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-05,Australia,Japan,1.0,0.0,FIFA World Cup qualification,Perth,Australia,False,385,0.46301306831122807,1.5,0.6945196024668421
+2025-03-25,China,Australia,0.0,2.0,FIFA World Cup qualification,Hangzhou,China,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,Australia,Indonesia,5.0,1.0,FIFA World Cup qualification,Sydney,Australia,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-11-19,Bahrain,Australia,2.0,2.0,FIFA World Cup qualification,Riffa,Bahrain,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-14,Australia,Saudi Arabia,0.0,0.0,FIFA World Cup qualification,Melbourne,Australia,False,588,0.3085103150663647,1.5,0.4627654725995471
+2024-10-15,Japan,Australia,1.0,1.0,FIFA World Cup qualification,Saitama,Japan,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-10-10,Australia,China,3.0,1.0,FIFA World Cup qualification,Adelaide,Australia,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-10,Indonesia,Australia,0.0,0.0,FIFA World Cup qualification,Jakarta,Indonesia,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-05,Australia,Bahrain,0.0,1.0,FIFA World Cup qualification,Robina,Australia,False,658,0.2682059831084244,1.5,0.4023089746626366
+2024-06-11,Australia,Palestine,5.0,0.0,FIFA World Cup qualification,Perth,Australia,False,744,0.22582385189647586,1.5,0.33873577784471376
+2024-06-06,Bangladesh,Australia,0.0,2.0,FIFA World Cup qualification,Dhaka,Bangladesh,False,749,0.22357686702670268,1.5,0.33536530054005403
+2024-03-26,Australia,Lebanon,5.0,0.0,FIFA World Cup qualification,Canberra,Australia,False,821,0.1935924699078839,1.5,0.29038870486182583
+2024-03-21,Australia,Lebanon,2.0,0.0,FIFA World Cup qualification,Sydney,Australia,False,826,0.19166619264739126,1.5,0.2874992889710869
+2024-01-28,Australia,Indonesia,4.0,0.0,AFC Asian Cup,Doha,Qatar,True,879,0.17238929786993218,0.75,0.12929197340244913
+2024-01-23,Australia,Uzbekistan,1.0,1.0,AFC Asian Cup,Al Wakrah,Qatar,True,884,0.17067399569626215,0.75,0.1280054967721966
+2026-06-06,Venezuela,Turkey,1.0,2.0,Friendly,Fort Lauderdale,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-06-01,Turkey,North Macedonia,4.0,0.0,Friendly,Istanbul,Turkey,False,24,0.9531337870775047,0.75,0.7148503403081286
+2026-03-31,Kosovo,Turkey,0.0,1.0,FIFA World Cup qualification,Pristina,Kosovo,False,86,0.8419791731684999,1.5,1.26296875975275
+2026-03-26,Turkey,Romania,1.0,0.0,FIFA World Cup qualification,Istanbul,Turkey,False,91,0.8336013404157353,1.5,1.250402010623603
+2025-11-18,Spain,Turkey,2.0,2.0,FIFA World Cup qualification,Seville,Spain,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-15,Turkey,Bulgaria,2.0,0.0,FIFA World Cup qualification,Bursa,Turkey,False,222,0.6414654208273198,1.5,0.9621981312409797
+2025-10-14,Turkey,Georgia,4.0,1.0,FIFA World Cup qualification,İzmit,Turkey,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-11,Bulgaria,Turkey,1.0,6.0,FIFA World Cup qualification,Sofia,Bulgaria,False,257,0.5980983940627613,1.5,0.897147591094142
+2025-09-07,Turkey,Spain,0.0,6.0,FIFA World Cup qualification,Konya,Turkey,False,291,0.5587796888828463,1.5,0.8381695333242696
+2025-09-04,Georgia,Turkey,2.0,3.0,FIFA World Cup qualification,Tbilisi,Georgia,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-03-23,Hungary,Turkey,0.0,3.0,UEFA Nations League,Budapest,Hungary,False,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Turkey,Hungary,3.0,1.0,UEFA Nations League,Istanbul,Turkey,False,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-19,Montenegro,Turkey,3.0,1.0,UEFA Nations League,Podgorica,Montenegro,False,583,0.31161089527997105,1.1,0.34277198480796817
+2024-11-16,Turkey,Wales,0.0,0.0,UEFA Nations League,Kayseri,Turkey,False,586,0.3097468277032208,1.1,0.34072151047354293
+2024-10-14,Iceland,Turkey,2.0,4.0,UEFA Nations League,Reykjavík,Iceland,False,619,0.2899635655294032,1.1,0.3189599220823436
+2024-10-11,Turkey,Montenegro,1.0,0.0,UEFA Nations League,Tekkeköy,Turkey,False,622,0.2882289930573573,1.1,0.317051892363093
+2024-09-09,Turkey,Iceland,3.0,1.0,UEFA Nations League,İzmir,Turkey,False,654,0.270360236497509,1.1,0.29739626014725995
+2024-09-06,Wales,Turkey,0.0,0.0,UEFA Nations League,Cardiff,Wales,False,657,0.26874293184439435,1.1,0.2956172250288338
+2024-07-06,Netherlands,Turkey,2.0,1.0,UEFA Euro,Berlin,Germany,True,719,0.23740208837106508,1.3,0.30862271488238463
+2024-07-02,Austria,Turkey,1.0,2.0,UEFA Euro,Leipzig,Germany,True,723,0.23551044831306475,1.3,0.3061635828069842
+2024-06-22,Turkey,Portugal,0.0,3.0,UEFA Euro,Dortmund,Germany,True,733,0.23084702898634524,1.3,0.30010113768224883
+2024-06-18,Turkey,Georgia,3.0,1.0,UEFA Euro,Dortmund,Germany,True,737,0.2290076201997705,1.3,0.2977099062597017
+2024-06-10,Poland,Turkey,2.0,1.0,Friendly,Warsaw,Poland,False,745,0.22537265553943872,0.75,0.16902949165457903
+2024-06-04,Italy,Turkey,0.0,0.0,Friendly,Bologna,Italy,False,751,0.22268434579109508,0.75,0.1670132593433213
+2026-06-25,Ecuador,Germany,2.0,1.0,FIFA World Cup,East Rutherford,United States,True,0,1.0,1.5,1.5
+2026-06-20,Germany,Ivory Coast,2.0,1.0,FIFA World Cup,Toronto,Canada,True,5,0.9900498337491681,1.5,1.485074750623752
+2026-06-14,Germany,Curaçao,7.0,1.0,FIFA World Cup,Houston,United States,True,11,0.97824023505121,1.5,1.467360352576815
+2026-05-31,Germany,Finland,4.0,0.0,Friendly,Mainz,Germany,False,25,0.951229424500714,0.75,0.7134220683755355
+2026-03-30,Germany,Ghana,2.0,1.0,Friendly,Stuttgart,Germany,False,87,0.8402968976584314,0.75,0.6302226732438235
+2025-11-17,Germany,Slovakia,6.0,0.0,FIFA World Cup qualification,Leipzig,Germany,False,220,0.6440364210831414,1.5,0.9660546316247121
+2025-11-14,Luxembourg,Germany,0.0,2.0,FIFA World Cup qualification,Luxembourg,Luxembourg,False,223,0.6401837720616471,1.5,0.9602756580924707
+2025-10-13,Northern Ireland,Germany,0.0,1.0,FIFA World Cup qualification,Belfast,Northern Ireland,False,255,0.6004955788122659,1.5,0.9007433682183988
+2025-10-10,Germany,Luxembourg,4.0,0.0,FIFA World Cup qualification,Sinsheim,Germany,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-07,Germany,Northern Ireland,3.0,1.0,FIFA World Cup qualification,Cologne,Germany,False,291,0.5587796888828463,1.5,0.8381695333242696
+2025-09-04,Slovakia,Germany,2.0,0.0,FIFA World Cup qualification,Bratislava,Slovakia,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-08,Germany,France,0.0,2.0,UEFA Nations League,Stuttgart,Germany,False,382,0.46579949764982825,1.1,0.5123794474148111
+2025-06-04,Germany,Portugal,1.0,2.0,UEFA Nations League,Munich,Germany,False,386,0.4620879675837,1.1,0.50829676434207
+2025-03-23,Germany,Italy,3.0,3.0,UEFA Nations League,Dortmund,Germany,False,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Italy,Germany,1.0,2.0,UEFA Nations League,Milan,Italy,False,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-19,Hungary,Germany,1.0,1.0,UEFA Nations League,Budapest,Hungary,False,583,0.31161089527997105,1.1,0.34277198480796817
+2024-10-14,Germany,Netherlands,1.0,0.0,UEFA Nations League,Munich,Germany,False,619,0.2899635655294032,1.1,0.3189599220823436
+2024-09-10,Netherlands,Germany,2.0,2.0,UEFA Nations League,Amsterdam,Netherlands,False,653,0.27090149805163766,1.1,0.29799164785680143
+2024-09-07,Germany,Hungary,5.0,0.0,UEFA Nations League,Düsseldorf,Germany,False,656,0.26928095555244996,1.1,0.29620905110769497
+2024-07-05,Germany,Spain,1.0,2.0,UEFA Euro,Stuttgart,Germany,False,720,0.23692775868212176,1.3,0.3080060862867583
+2024-06-29,Germany,Denmark,2.0,0.0,UEFA Euro,Dortmund,Germany,False,726,0.2341016163455822,1.3,0.30433210124925686
+2024-06-19,Germany,Hungary,2.0,0.0,UEFA Euro,Stuttgart,Germany,False,736,0.22946609376090668,1.3,0.2983059218891787
+2024-06-07,Germany,Greece,2.0,1.0,Friendly,Mönchengladbach,Germany,False,748,0.22402446821274175,0.75,0.16801835115955632
+2024-06-03,Germany,Ukraine,0.0,0.0,Friendly,Nuremberg,Germany,False,752,0.2222394221714404,0.75,0.1666795666285803
+2026-06-25,Curaçao,Ivory Coast,0.0,2.0,FIFA World Cup,Philadelphia,United States,True,0,1.0,1.5,1.5
+2026-06-20,Ecuador,Curaçao,0.0,0.0,FIFA World Cup,Kansas City,United States,True,5,0.9900498337491681,1.5,1.485074750623752
+2026-06-06,Curaçao,Aruba,4.0,0.0,Friendly,Willemstad,Curaçao,False,19,0.9627129408911995,0.75,0.7220347056683997
+2026-03-27,China,Curaçao,2.0,0.0,FIFA Series,Sydney,Australia,True,90,0.835270211411272,0.75,0.626452658558454
+2025-11-18,Jamaica,Curaçao,0.0,0.0,FIFA World Cup qualification,Kingston,Jamaica,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-13,Bermuda,Curaçao,0.0,7.0,FIFA World Cup qualification,Devonshire Parish,Bermuda,False,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-14,Curaçao,Trinidad and Tobago,1.0,1.0,FIFA World Cup qualification,Willemstad,Curaçao,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-10,Curaçao,Jamaica,2.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-09,Curaçao,Bermuda,3.0,2.0,FIFA World Cup qualification,Willemstad,Curaçao,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-05,Trinidad and Tobago,Curaçao,0.0,0.0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-24,Honduras,Curaçao,2.0,1.0,Gold Cup,San Jose,United States,True,366,0.480946135285778,1.15,0.5530880555786447
+2025-06-17,Curaçao,El Salvador,0.0,0.0,Gold Cup,San Jose,United States,True,373,0.4742598029280199,1.15,0.5453987733672229
+2025-06-06,Curaçao,Saint Lucia,4.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,False,384,0.4639400210916467,1.5,0.6959100316374701
+2025-03-19,Kazakhstan,Curaçao,2.0,0.0,Friendly,Antalya,Turkey,True,463,0.39613508585555535,0.75,0.29710131439166654
+2024-11-18,Saint Lucia,Curaçao,1.0,4.0,CONCACAF Nations League,Gros Islet,Saint Lucia,False,584,0.3109882962959281,1.1,0.34208712592552093
+2024-11-15,Curaçao,Saint Martin,5.0,0.0,CONCACAF Nations League,Willemstad,Curaçao,False,587,0.30912795312868047,1.1,0.3400407484415485
+2024-10-14,Curaçao,Grenada,1.0,0.0,CONCACAF Nations League,Gros Islet,Saint Lucia,True,619,0.2899635655294032,1.1,0.3189599220823436
+2024-10-11,Grenada,Curaçao,0.0,0.0,CONCACAF Nations League,Gros Islet,Saint Lucia,True,622,0.2882289930573573,1.1,0.317051892363093
+2024-09-09,Curaçao,Saint Martin,4.0,0.0,CONCACAF Nations League,St. George's,Grenada,True,654,0.270360236497509,1.1,0.29739626014725995
+2024-09-06,Saint Lucia,Curaçao,2.0,1.0,CONCACAF Nations League,St. George's,Grenada,True,657,0.26874293184439435,1.1,0.2956172250288338
+2024-06-08,Aruba,Curaçao,0.0,2.0,FIFA World Cup qualification,Oranjestad,Aruba,False,747,0.22447296549695234,1.5,0.3367094482454285
+2024-06-05,Curaçao,Barbados,4.0,1.0,FIFA World Cup qualification,Willemstad,Curaçao,False,750,0.22313016014842982,1.5,0.33469524022264474
+2023-11-20,Curaçao,El Salvador,1.0,1.0,Friendly,Willemstad,Curaçao,False,948,0.15016809184547464,0.75,0.11262606888410598
+2023-11-16,Curaçao,El Salvador,1.0,1.0,Friendly,Willemstad,Curaçao,False,952,0.1489715397008938,0.75,0.11172865477567034
+2023-10-17,Curaçao,Trinidad and Tobago,5.0,3.0,CONCACAF Nations League,Willemstad,Curaçao,False,982,0.14029611260373964,1.1,0.1543257238641136
+2026-06-14,Ivory Coast,Ecuador,1.0,0.0,FIFA World Cup,Philadelphia,United States,True,11,0.97824023505121,1.5,1.467360352576815
+2026-06-04,France,Ivory Coast,1.0,2.0,Friendly,Nantes,France,False,21,0.9588697805724845,0.75,0.7191523354293634
+2026-01-10,Egypt,Ivory Coast,3.0,2.0,African Cup of Nations,Agadir,Morocco,True,166,0.7174873228544433,1.1,0.7892360551398877
+2026-01-06,Ivory Coast,Burkina Faso,3.0,0.0,African Cup of Nations,Marrakesh,Morocco,True,170,0.7117703227626097,1.1,0.7829473550388707
+2025-12-31,Gabon,Ivory Coast,2.0,3.0,African Cup of Nations,Marrakesh,Morocco,True,176,0.7032801219763409,1.1,0.7736081341739751
+2025-12-28,Ivory Coast,Cameroon,1.0,1.0,African Cup of Nations,Marrakesh,Morocco,True,179,0.6990730750065257,1.1,0.7689803825071784
+2025-12-24,Ivory Coast,Mozambique,1.0,0.0,African Cup of Nations,Marrakesh,Morocco,True,183,0.6935028012097558,1.1,0.7628530813307315
+2025-11-18,Oman,Ivory Coast,0.0,2.0,Friendly,Seeb,Oman,False,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-14,Saudi Arabia,Ivory Coast,1.0,0.0,Friendly,Jeddah,Saudi Arabia,False,223,0.6401837720616471,0.75,0.48013782904623536
+2025-10-14,Ivory Coast,Kenya,3.0,0.0,FIFA World Cup qualification,Ebimpé,Ivory Coast,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-10,Seychelles,Ivory Coast,0.0,7.0,FIFA World Cup qualification,Saint Pierre,Mauritius,True,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-09,Gabon,Ivory Coast,0.0,0.0,FIFA World Cup qualification,Franceville,Gabon,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-05,Ivory Coast,Burundi,1.0,0.0,FIFA World Cup qualification,Abidjan,Ivory Coast,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-07,Ivory Coast,New Zealand,0.0,1.0,Canadian Shield,Toronto,Canada,True,383,0.46486882963276827,0.75,0.3486516222245762
+2025-03-24,Ivory Coast,Gambia,1.0,0.0,FIFA World Cup qualification,Abidjan,Ivory Coast,False,458,0.40011630965630496,1.5,0.6001744644844574
+2025-03-21,Burundi,Ivory Coast,0.0,1.0,FIFA World Cup qualification,Meknes,Morocco,True,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-19,Ivory Coast,Chad,4.0,0.0,African Cup of Nations qualification,Abidjan,Ivory Coast,False,583,0.31161089527997105,1.25,0.3895136190999638
+2024-11-15,Zambia,Ivory Coast,1.0,0.0,African Cup of Nations qualification,Ndola,Zambia,False,587,0.30912795312868047,1.25,0.3864099414108506
+2024-10-15,Sierra Leone,Ivory Coast,1.0,0.0,African Cup of Nations qualification,Monrovia,Liberia,True,618,0.2905440729744046,1.25,0.36318009121800576
+2024-10-11,Ivory Coast,Sierra Leone,4.0,1.0,African Cup of Nations qualification,San-Pédro,Ivory Coast,False,622,0.2882289930573573,1.25,0.3602862413216966
+2024-09-10,Chad,Ivory Coast,0.0,2.0,African Cup of Nations qualification,Yaoundé,Cameroon,True,653,0.27090149805163766,1.25,0.33862687256454704
+2024-09-06,Ivory Coast,Zambia,2.0,0.0,African Cup of Nations qualification,Bouaké,Ivory Coast,False,657,0.26874293184439435,1.25,0.33592866480549294
+2024-06-11,Kenya,Ivory Coast,0.0,0.0,FIFA World Cup qualification,Lilongwe,Malawi,True,744,0.22582385189647586,1.5,0.33873577784471376
+2024-06-07,Ivory Coast,Gabon,1.0,0.0,FIFA World Cup qualification,Korhogo,Ivory Coast,False,748,0.22402446821274175,1.5,0.33603670231911265
+2024-03-26,Ivory Coast,Uruguay,2.0,1.0,Friendly,Lens,France,True,821,0.1935924699078839,0.75,0.14519435243091292
+2026-06-07,Ecuador,Guatemala,3.0,0.0,Friendly,Columbus,United States,True,18,0.9646402934831231,0.75,0.7234802201123423
+2026-05-30,Ecuador,Saudi Arabia,2.0,1.0,Friendly,Harrison,United States,True,26,0.9493288668428895,0.75,0.7119966501321672
+2026-03-31,Netherlands,Ecuador,1.0,1.0,Friendly,Eindhoven,Netherlands,False,86,0.8419791731684999,0.75,0.631484379876375
+2025-11-18,Ecuador,New Zealand,2.0,0.0,Friendly,Harrison,United States,True,219,0.6453257828572946,0.75,0.4839943371429709
+2025-09-09,Ecuador,Argentina,1.0,0.0,FIFA World Cup qualification,Guayaquil,Ecuador,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-06-10,Peru,Ecuador,0.0,0.0,FIFA World Cup qualification,Lima,Peru,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-03-25,Chile,Ecuador,0.0,0.0,FIFA World Cup qualification,Santiago,Chile,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-21,Ecuador,Venezuela,2.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-19,Colombia,Ecuador,0.0,1.0,FIFA World Cup qualification,Barranquilla,Colombia,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-14,Ecuador,Bolivia,4.0,0.0,FIFA World Cup qualification,Guayaquil,Ecuador,False,588,0.3085103150663647,1.5,0.4627654725995471
+2024-10-15,Uruguay,Ecuador,0.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-09-10,Ecuador,Peru,1.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-07-04,Argentina,Ecuador,1.0,1.0,Copa América,Houston,United States,True,721,0.2364543767045291,0.75,0.17734078252839683
+2024-06-30,Mexico,Ecuador,0.0,0.0,Copa América,Glendale,United States,True,725,0.23457028809379765,0.75,0.17592771607034824
+2024-06-26,Ecuador,Jamaica,3.0,1.0,Copa América,Las Vegas,United States,True,729,0.23270121206157107,0.75,0.17452590904617832
+2024-06-22,Ecuador,Venezuela,1.0,2.0,Copa América,Santa Clara,United States,True,733,0.23084702898634524,0.75,0.17313527173975893
+2024-06-16,Ecuador,Honduras,2.0,1.0,Friendly,Hartford,United States,True,739,0.22809341933962587,0.75,0.1710700645047194
+2024-06-12,Ecuador,Bolivia,3.0,1.0,Friendly,Chester,United States,True,743,0.2262759515492217,0.75,0.1697069636619163
+2024-06-09,Argentina,Ecuador,1.0,0.0,Friendly,Chicago,United States,True,746,0.22492236067332425,0.75,0.16869177050499318
+2026-06-25,Tunisia,Netherlands,1.0,3.0,FIFA World Cup,Kansas City,United States,True,0,1.0,1.5,1.5
+2026-06-20,Netherlands,Sweden,5.0,1.0,FIFA World Cup,Houston,United States,True,5,0.9900498337491681,1.5,1.485074750623752
+2026-06-14,Netherlands,Japan,2.0,2.0,FIFA World Cup,Arlington,United States,True,11,0.97824023505121,1.5,1.467360352576815
+2026-06-08,Netherlands,Uzbekistan,2.0,1.0,Friendly,New York,United States,True,17,0.9665715046375066,0.75,0.72492862847813
+2026-06-03,Netherlands,Algeria,0.0,1.0,Friendly,Rotterdam,Netherlands,False,22,0.9569539574730467,0.75,0.717715468104785
+2026-03-27,Netherlands,Norway,2.0,1.0,Friendly,Amsterdam,Netherlands,False,90,0.835270211411272,0.75,0.626452658558454
+2025-11-17,Netherlands,Lithuania,4.0,0.0,FIFA World Cup qualification,Amsterdam,Netherlands,False,220,0.6440364210831414,1.5,0.9660546316247121
+2025-11-14,Poland,Netherlands,1.0,1.0,FIFA World Cup qualification,Warsaw,Poland,False,223,0.6401837720616471,1.5,0.9602756580924707
+2025-10-12,Netherlands,Finland,4.0,0.0,FIFA World Cup qualification,Amsterdam,Netherlands,False,256,0.5992957878455384,1.5,0.8989436817683076
+2025-10-09,Malta,Netherlands,0.0,4.0,FIFA World Cup qualification,Ta' Qali,Malta,False,259,0.5957107789003212,1.5,0.8935661683504819
+2025-09-07,Lithuania,Netherlands,2.0,3.0,FIFA World Cup qualification,Kaunas,Lithuania,False,291,0.5587796888828463,1.5,0.8381695333242696
+2025-09-04,Netherlands,Poland,1.0,1.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-10,Netherlands,Malta,8.0,0.0,FIFA World Cup qualification,Groningen,Netherlands,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-07,Finland,Netherlands,0.0,2.0,FIFA World Cup qualification,Helsinki,Finland,False,383,0.46486882963276827,1.5,0.6973032444491524
+2025-03-23,Spain,Netherlands,3.0,3.0,UEFA Nations League,Valencia,Spain,False,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Netherlands,Spain,2.0,2.0,UEFA Nations League,Rotterdam,Netherlands,False,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-16,Netherlands,Hungary,4.0,0.0,UEFA Nations League,Amsterdam,Netherlands,False,586,0.3097468277032208,1.1,0.34072151047354293
+2024-10-11,Hungary,Netherlands,1.0,1.0,UEFA Nations League,Budapest,Hungary,False,622,0.2882289930573573,1.1,0.317051892363093
+2024-07-10,Netherlands,England,1.0,2.0,UEFA Euro,Dortmund,Germany,True,715,0.23930892224375455,1.3,0.31110159891688094
+2024-07-02,Romania,Netherlands,0.0,3.0,UEFA Euro,Munich,Germany,True,723,0.23551044831306475,1.3,0.3061635828069842
+2024-06-25,Netherlands,Austria,2.0,3.0,UEFA Euro,Berlin,Germany,True,730,0.23223627472975883,1.3,0.3019071571486865
+2024-06-21,Netherlands,France,0.0,0.0,UEFA Euro,Leipzig,Germany,True,734,0.23038579631478834,1.3,0.29950153520922485
+2024-06-16,Poland,Netherlands,1.0,2.0,UEFA Euro,Hamburg,Germany,True,739,0.22809341933962587,1.3,0.29652144514151363
+2024-06-10,Netherlands,Iceland,4.0,0.0,Friendly,Rotterdam,Netherlands,False,745,0.22537265553943872,0.75,0.16902949165457903
+2026-06-25,Japan,Sweden,1.0,1.0,FIFA World Cup,Arlington,United States,True,0,1.0,1.5,1.5
+2026-06-20,Tunisia,Japan,0.0,4.0,FIFA World Cup,Guadalupe,Mexico,True,5,0.9900498337491681,1.5,1.485074750623752
+2026-05-31,Japan,Iceland,1.0,0.0,Friendly,Tokyo,Japan,False,25,0.951229424500714,0.75,0.7134220683755355
+2026-03-31,England,Japan,0.0,1.0,Friendly,London,England,False,86,0.8419791731684999,0.75,0.631484379876375
+2025-11-18,Japan,Bolivia,3.0,0.0,Kirin Cup,Tokyo,Japan,False,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-14,Japan,Ghana,2.0,0.0,Kirin Cup,Toyota,Japan,False,223,0.6401837720616471,0.75,0.48013782904623536
+2025-06-10,Japan,Indonesia,6.0,0.0,FIFA World Cup qualification,Suita,Japan,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-03-25,Japan,Saudi Arabia,0.0,0.0,FIFA World Cup qualification,Saitama,Japan,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,Japan,Bahrain,2.0,0.0,FIFA World Cup qualification,Saitama,Japan,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-11-19,China,Japan,1.0,3.0,FIFA World Cup qualification,Xiamen,China,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-15,Indonesia,Japan,0.0,4.0,FIFA World Cup qualification,Jakarta,Indonesia,False,587,0.30912795312868047,1.5,0.4636919296930207
+2024-10-10,Saudi Arabia,Japan,0.0,2.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-10,Bahrain,Japan,0.0,5.0,FIFA World Cup qualification,Riffa,Bahrain,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-05,Japan,China,7.0,0.0,FIFA World Cup qualification,Saitama,Japan,False,658,0.2682059831084244,1.5,0.4023089746626366
+2024-06-11,Japan,Syria,5.0,0.0,FIFA World Cup qualification,Hiroshima,Japan,False,744,0.22582385189647586,1.5,0.33873577784471376
+2024-06-06,Myanmar,Japan,0.0,5.0,FIFA World Cup qualification,Yangon,Myanmar,False,749,0.22357686702670268,1.5,0.33536530054005403
+2024-03-21,Japan,North Korea,1.0,0.0,FIFA World Cup qualification,Tokyo,Japan,False,826,0.19166619264739126,1.5,0.2874992889710869
+2024-02-03,Iran,Japan,2.0,1.0,AFC Asian Cup,Al Rayyan,Qatar,True,873,0.17447043127123832,0.75,0.13085282345342875
+2024-01-31,Bahrain,Japan,1.0,3.0,AFC Asian Cup,Doha,Qatar,True,876,0.17342674287984836,0.75,0.13007005715988626
+2024-01-24,Japan,Indonesia,3.0,1.0,AFC Asian Cup,Doha,Qatar,True,883,0.17101568526332522,0.75,0.12826176394749392
+2024-01-19,Iraq,Japan,2.0,1.0,AFC Asian Cup,Al Rayyan,Qatar,True,888,0.16931405076345518,0.75,0.1269855380725914
+2024-01-14,Japan,Vietnam,4.0,2.0,AFC Asian Cup,Doha,Qatar,True,893,0.167629347809757,0.75,0.12572201085731774
+2026-06-14,Sweden,Tunisia,5.0,1.0,FIFA World Cup,Guadalupe,Mexico,True,11,0.97824023505121,1.5,1.467360352576815
+2026-06-04,Sweden,Greece,2.0,2.0,Friendly,Solna,Sweden,False,21,0.9588697805724845,0.75,0.7191523354293634
+2026-06-01,Norway,Sweden,3.0,1.0,Friendly,Oslo,Norway,False,24,0.9531337870775047,0.75,0.7148503403081286
+2026-03-31,Sweden,Poland,3.0,2.0,FIFA World Cup qualification,Solna,Sweden,False,86,0.8419791731684999,1.5,1.26296875975275
+2026-03-26,Ukraine,Sweden,1.0,3.0,FIFA World Cup qualification,Valencia,Spain,True,91,0.8336013404157353,1.5,1.250402010623603
+2025-11-18,Sweden,Slovenia,1.0,1.0,FIFA World Cup qualification,Solna,Sweden,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-10-13,Sweden,Kosovo,0.0,1.0,FIFA World Cup qualification,Gothenburg,Sweden,False,255,0.6004955788122659,1.5,0.9007433682183988
+2025-09-08,Kosovo,Sweden,2.0,0.0,FIFA World Cup qualification,Pristina,Kosovo,False,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-05,Slovenia,Sweden,2.0,2.0,FIFA World Cup qualification,Ljubljana,Slovenia,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-10,Sweden,Algeria,4.0,3.0,Friendly,Solna,Sweden,False,380,0.46766642700990924,0.75,0.35074982025743195
+2025-06-06,Hungary,Sweden,0.0,2.0,Friendly,Budapest,Hungary,False,384,0.4639400210916467,0.75,0.34795501581873506
+2025-03-25,Sweden,Northern Ireland,5.0,1.0,Friendly,Solna,Sweden,False,457,0.4009173430419921,0.75,0.3006880072814941
+2025-03-22,Luxembourg,Sweden,1.0,0.0,Friendly,Luxembourg,Luxembourg,False,460,0.39851904108451414,0.75,0.2988892808133856
+2024-11-19,Sweden,Azerbaijan,6.0,0.0,UEFA Nations League,Solna,Sweden,False,583,0.31161089527997105,1.1,0.34277198480796817
+2024-11-16,Sweden,Slovakia,2.0,1.0,UEFA Nations League,Solna,Sweden,False,586,0.3097468277032208,1.1,0.34072151047354293
+2024-10-14,Estonia,Sweden,0.0,3.0,UEFA Nations League,Tallinn,Estonia,False,619,0.2899635655294032,1.1,0.3189599220823436
+2024-10-11,Slovakia,Sweden,2.0,2.0,UEFA Nations League,Bratislava,Slovakia,False,622,0.2882289930573573,1.1,0.317051892363093
+2024-09-08,Sweden,Estonia,3.0,0.0,UEFA Nations League,Stockholm,Sweden,False,655,0.2698200563846868,1.1,0.2968020620231555
+2024-09-05,Azerbaijan,Sweden,1.0,3.0,UEFA Nations League,Baku,Azerbaijan,False,658,0.2682059831084244,1.1,0.2950265814192669
+2024-06-08,Sweden,Serbia,0.0,3.0,Friendly,Stockholm,Sweden,False,747,0.22447296549695234,0.75,0.16835472412271424
+2024-06-05,Denmark,Sweden,2.0,1.0,Friendly,Copenhagen,Denmark,False,750,0.22313016014842982,0.75,0.16734762011132237
+2024-03-25,Sweden,Albania,1.0,0.0,Friendly,Stockholm,Sweden,False,822,0.19320567189501364,0.75,0.14490425392126022
+2024-03-21,Portugal,Sweden,5.0,2.0,Friendly,Guimarães,Portugal,False,826,0.19166619264739126,0.75,0.14374964448554345
+2024-01-12,Sweden,Estonia,2.0,1.0,Friendly,Paphos,Cyprus,True,895,0.1669601696670407,0.75,0.12522012725028053
+2023-11-19,Sweden,Estonia,2.0,0.0,UEFA Euro qualification,Stockholm,Sweden,False,949,0.14986805579784332,1.25,0.18733506974730416
+2023-11-16,Azerbaijan,Sweden,3.0,0.0,UEFA Euro qualification,Baku,Azerbaijan,False,952,0.1489715397008938,1.25,0.18621442462611726
+2026-06-06,Belgium,Tunisia,5.0,0.0,Friendly,Brussels,Belgium,False,19,0.9627129408911995,0.75,0.7220347056683997
+2026-06-01,Austria,Tunisia,1.0,0.0,Friendly,Vienna,Austria,False,24,0.9531337870775047,0.75,0.7148503403081286
+2026-01-03,Mali,Tunisia,1.0,1.0,African Cup of Nations,Casablanca,Morocco,True,173,0.7075124871065017,1.1,0.7782637358171519
+2025-12-30,Tanzania,Tunisia,1.0,1.0,African Cup of Nations,Rabat,Morocco,True,177,0.701874967355394,1.1,0.7720624640909335
+2025-12-27,Nigeria,Tunisia,3.0,2.0,African Cup of Nations,Fez,Morocco,True,180,0.697676326071031,1.1,0.7674439586781342
+2025-12-23,Tunisia,Uganda,3.0,1.0,African Cup of Nations,Rabat,Morocco,True,184,0.6921171816887304,1.1,0.7613288998576034
+2025-12-04,Palestine,Tunisia,2.0,2.0,Arab Cup,Lusail,Qatar,True,203,0.6663101674248864,0.75,0.49973262556866477
+2025-12-01,Tunisia,Syria,0.0,1.0,Arab Cup,Al Rayyan,Qatar,True,206,0.6623242760521222,0.75,0.49674320703909164
+2025-11-14,Tunisia,Jordan,3.0,2.0,Friendly,Radès,Tunisia,False,223,0.6401837720616471,0.75,0.48013782904623536
+2025-11-12,Tunisia,Mauritania,1.0,1.0,Friendly,Radès,Tunisia,False,225,0.6376281516217733,0.75,0.47822111371633
+2025-10-13,Tunisia,Namibia,3.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False,255,0.6004955788122659,1.5,0.9007433682183988
+2025-10-10,Tunisia,São Tomé and Príncipe,6.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-08,Equatorial Guinea,Tunisia,0.0,1.0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-04,Tunisia,Liberia,3.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-02,Tunisia,Burkina Faso,2.0,0.0,Friendly,Radès,Tunisia,False,388,0.46024330749309256,0.75,0.34518248061981943
+2025-03-24,Tunisia,Malawi,2.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False,458,0.40011630965630496,1.5,0.6001744644844574
+2025-03-19,Liberia,Tunisia,0.0,1.0,FIFA World Cup qualification,Monrovia,Liberia,False,463,0.39613508585555535,1.5,0.5942026287833331
+2024-11-18,Tunisia,Gambia,0.0,1.0,African Cup of Nations qualification,Tunis,Tunisia,False,584,0.3109882962959281,1.25,0.3887353703699101
+2024-11-14,Madagascar,Tunisia,2.0,3.0,African Cup of Nations qualification,Pretoria,South Africa,True,588,0.3085103150663647,1.25,0.3856378938329559
+2024-10-15,Comoros,Tunisia,1.0,1.0,African Cup of Nations qualification,Abidjan,Ivory Coast,True,618,0.2905440729744046,1.25,0.36318009121800576
+2024-10-11,Tunisia,Comoros,0.0,1.0,African Cup of Nations qualification,Radès,Tunisia,False,622,0.2882289930573573,1.25,0.3602862413216966
+2024-09-08,Gambia,Tunisia,1.0,2.0,African Cup of Nations qualification,El Jadida,Morocco,True,655,0.2698200563846868,1.25,0.33727507048085853
+2026-06-21,Belgium,Iran,0.0,0.0,FIFA World Cup,Inglewood,United States,True,4,0.9920319148370607,1.5,1.488047872255591
+2026-06-15,Belgium,Egypt,1.0,1.0,FIFA World Cup,Seattle,United States,True,10,0.9801986733067553,1.5,1.4702980099601328
+2026-06-02,Croatia,Belgium,0.0,2.0,Friendly,Rijeka,Croatia,False,23,0.9550419621907147,0.75,0.716281471643036
+2025-11-18,Belgium,Liechtenstein,7.0,0.0,FIFA World Cup qualification,Liège,Belgium,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-15,Kazakhstan,Belgium,1.0,1.0,FIFA World Cup qualification,Astana,Kazakhstan,False,222,0.6414654208273198,1.5,0.9621981312409797
+2025-10-13,Wales,Belgium,2.0,4.0,FIFA World Cup qualification,Cardiff,Wales,False,255,0.6004955788122659,1.5,0.9007433682183988
+2025-10-10,Belgium,North Macedonia,0.0,0.0,FIFA World Cup qualification,Ghent,Belgium,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-07,Belgium,Kazakhstan,6.0,0.0,FIFA World Cup qualification,Anderlecht,Belgium,False,291,0.5587796888828463,1.5,0.8381695333242696
+2025-09-04,Liechtenstein,Belgium,0.0,6.0,FIFA World Cup qualification,Vaduz,Liechtenstein,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-09,Belgium,Wales,4.0,3.0,FIFA World Cup qualification,Brussels,Belgium,False,381,0.46673202886549986,1.5,0.7000980432982498
+2025-06-06,North Macedonia,Belgium,1.0,1.0,FIFA World Cup qualification,Skopje,North Macedonia,False,384,0.4639400210916467,1.5,0.6959100316374701
+2025-03-23,Belgium,Ukraine,3.0,0.0,UEFA Nations League,Genk,Belgium,False,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Ukraine,Belgium,3.0,1.0,UEFA Nations League,Murcia,Spain,True,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-17,Israel,Belgium,1.0,0.0,UEFA Nations League,Budapest,Hungary,True,585,0.31036694126548503,1.1,0.34140363539203356
+2024-11-14,Belgium,Italy,0.0,1.0,UEFA Nations League,Brussels,Belgium,False,588,0.3085103150663647,1.1,0.3393613465730012
+2024-10-14,Belgium,France,1.0,2.0,UEFA Nations League,Leuven,Belgium,False,619,0.2899635655294032,1.1,0.3189599220823436
+2024-10-10,Italy,Belgium,2.0,2.0,UEFA Nations League,Rome,Italy,False,623,0.2876531111451154,1.1,0.31641842225962696
+2024-09-09,France,Belgium,2.0,0.0,UEFA Nations League,Décines-Charpieu,France,False,654,0.270360236497509,1.1,0.29739626014725995
+2024-09-06,Belgium,Israel,3.0,1.0,UEFA Nations League,Debrecen,Hungary,True,657,0.26874293184439435,1.1,0.2956172250288338
+2024-07-01,France,Belgium,1.0,0.0,UEFA Euro,Düsseldorf,Germany,True,724,0.23503989812347828,1.3,0.3055518675605218
+2024-06-26,Ukraine,Belgium,0.0,0.0,UEFA Euro,Stuttgart,Germany,True,729,0.23270121206157107,1.3,0.3025115756800424
+2024-06-22,Belgium,Romania,2.0,0.0,UEFA Euro,Cologne,Germany,True,733,0.23084702898634524,1.3,0.30010113768224883
+2024-06-17,Belgium,Slovakia,0.0,1.0,UEFA Euro,Frankfurt,Germany,True,738,0.2285500626694205,1.3,0.2971150814702466
+2024-06-08,Belgium,Luxembourg,3.0,0.0,Friendly,Brussels,Belgium,False,747,0.22447296549695234,0.75,0.16835472412271424
+2024-06-05,Belgium,Montenegro,2.0,0.0,Friendly,Brussels,Belgium,False,750,0.22313016014842982,0.75,0.16734762011132237
+2024-03-26,England,Belgium,2.0,2.0,Friendly,London,England,False,821,0.1935924699078839,0.75,0.14519435243091292
+2024-03-23,Republic of Ireland,Belgium,0.0,0.0,Friendly,Dublin,Republic of Ireland,False,824,0.19243439279400748,0.75,0.1443257945955056
+2026-06-21,New Zealand,Egypt,1.0,3.0,FIFA World Cup,Vancouver,Canada,True,4,0.9920319148370607,1.5,1.488047872255591
+2026-05-28,Egypt,Russia,1.0,0.0,Friendly,Cairo,Egypt,False,28,0.9455391358903963,0.75,0.7091543519177972
+2026-03-31,Spain,Egypt,0.0,0.0,Friendly,Barcelona,Spain,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,Saudi Arabia,Egypt,0.0,4.0,Friendly,Jeddah,Saudi Arabia,False,90,0.835270211411272,0.75,0.626452658558454
+2026-01-17,Egypt,Nigeria,0.0,0.0,African Cup of Nations,Casablanca,Morocco,True,159,0.7276027884145955,1.1,0.8003630672560551
+2026-01-14,Senegal,Egypt,1.0,0.0,African Cup of Nations,Tangier,Morocco,True,162,0.7232502423798424,1.1,0.7955752666178266
+2026-01-05,Egypt,Benin,3.0,1.0,African Cup of Nations,Agadir,Morocco,True,171,0.7103482047091773,1.1,0.7813830251800951
+2025-12-29,Angola,Egypt,0.0,0.0,African Cup of Nations,Agadir,Morocco,True,178,0.7004726202352524,1.1,0.7705198822587777
+2025-12-22,Egypt,Zimbabwe,2.0,1.0,African Cup of Nations,Agadir,Morocco,True,185,0.6907343306373547,1.1,0.7598077637010902
+2025-12-09,Egypt,Jordan,0.0,3.0,Arab Cup,Al Khor,Qatar,True,198,0.6730066959373864,0.75,0.5047550219530398
+2025-12-06,United Arab Emirates,Egypt,1.0,1.0,Arab Cup,Lusail,Qatar,True,201,0.6689807456903467,0.75,0.50173555926776
+2025-12-02,Egypt,Kuwait,1.0,1.0,Arab Cup,Lusail,Qatar,True,205,0.6636502501363194,0.75,0.4977376876022396
+2025-11-17,Cape Verde,Egypt,1.0,1.0,Al Ain International Cup,Al Ain,United Arab Emirates,True,220,0.6440364210831414,0.75,0.48302731581235603
+2025-11-14,Uzbekistan,Egypt,2.0,0.0,Al Ain International Cup,Al Ain,United Arab Emirates,True,223,0.6401837720616471,0.75,0.48013782904623536
+2025-10-12,Egypt,Guinea-Bissau,1.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False,256,0.5992957878455384,1.5,0.8989436817683076
+2025-10-08,Djibouti,Egypt,0.0,3.0,FIFA World Cup qualification,Casablanca,Morocco,True,260,0.5945205479701944,1.5,0.8917808219552916
+2025-09-09,Burkina Faso,Egypt,0.0,0.0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-05,Egypt,Ethiopia,2.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-03-25,Egypt,Sierra Leone,1.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-21,Ethiopia,Egypt,0.0,2.0,FIFA World Cup qualification,Casablanca,Morocco,True,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-19,Egypt,Botswana,1.0,1.0,African Cup of Nations qualification,Cairo,Egypt,False,583,0.31161089527997105,1.25,0.3895136190999638
+2024-11-15,Cape Verde,Egypt,1.0,1.0,African Cup of Nations qualification,Praia,Cape Verde,False,587,0.30912795312868047,1.25,0.3864099414108506
+2024-10-15,Mauritania,Egypt,0.0,1.0,African Cup of Nations qualification,Nouakchott,Mauritania,False,618,0.2905440729744046,1.25,0.36318009121800576
+2024-10-11,Egypt,Mauritania,2.0,0.0,African Cup of Nations qualification,Cairo,Egypt,False,622,0.2882289930573573,1.25,0.3602862413216966
+2024-09-10,Botswana,Egypt,0.0,4.0,African Cup of Nations qualification,Francistown,Botswana,False,653,0.27090149805163766,1.25,0.33862687256454704
+2024-09-06,Egypt,Cape Verde,3.0,0.0,African Cup of Nations qualification,Cairo,Egypt,False,657,0.26874293184439435,1.25,0.33592866480549294
+2026-06-15,Iran,New Zealand,2.0,2.0,FIFA World Cup,Inglewood,United States,True,10,0.9801986733067553,1.5,1.4702980099601328
+2026-06-04,Iran,Mali,2.0,0.0,Friendly,Antalya,Turkey,True,21,0.9588697805724845,0.75,0.7191523354293634
+2026-05-29,Iran,Gambia,3.0,1.0,Friendly,Aksu,Turkey,True,27,0.9474321065017983,0.75,0.7105740798763487
+2026-03-31,Costa Rica,Iran,0.0,5.0,Friendly,Antalya,Turkey,True,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,Iran,Nigeria,1.0,2.0,Friendly,Antalya,Turkey,True,90,0.835270211411272,0.75,0.626452658558454
+2025-11-18,Iran,Uzbekistan,0.0,0.0,Al Ain International Cup,Al Ain,United Arab Emirates,True,219,0.6453257828572946,0.75,0.4839943371429709
+2025-11-13,Iran,Cape Verde,0.0,0.0,Al Ain International Cup,Al Ain,United Arab Emirates,True,224,0.6389046840319162,0.75,0.4791785130239372
+2025-10-14,Iran,Tanzania,2.0,0.0,Friendly,Dubai,United Arab Emirates,True,254,0.6016977717621094,0.75,0.451273328821582
+2025-10-10,Russia,Iran,2.0,1.0,Friendly,Volgograd,Russia,False,258,0.596903392674358,0.75,0.44767754450576847
+2025-06-10,Iran,North Korea,3.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-03-25,Iran,Uzbekistan,2.0,2.0,FIFA World Cup qualification,Tehran,Iran,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,Iran,United Arab Emirates,2.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-11-19,Kyrgyzstan,Iran,2.0,3.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-14,North Korea,Iran,2.0,3.0,FIFA World Cup qualification,Vientiane,Laos,True,588,0.3085103150663647,1.5,0.4627654725995471
+2024-10-10,Uzbekistan,Iran,0.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-10,United Arab Emirates,Iran,0.0,1.0,FIFA World Cup qualification,Al Ain,United Arab Emirates,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-05,Iran,Kyrgyzstan,1.0,0.0,FIFA World Cup qualification,Fuladshahr,Iran,False,658,0.2682059831084244,1.5,0.4023089746626366
+2024-06-11,Iran,Uzbekistan,0.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,744,0.22582385189647586,1.5,0.33873577784471376
+2024-06-06,Hong Kong,Iran,2.0,4.0,FIFA World Cup qualification,Hong Kong,Hong Kong,False,749,0.22357686702670268,1.5,0.33536530054005403
+2024-03-26,Turkmenistan,Iran,0.0,1.0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False,821,0.1935924699078839,1.5,0.29038870486182583
+2024-03-21,Iran,Turkmenistan,5.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,826,0.19166619264739126,1.5,0.2874992889710869
+2024-02-07,Qatar,Iran,3.0,2.0,AFC Asian Cup,Doha,Qatar,False,869,0.17587179269317638,0.75,0.1319038445198823
+2024-01-31,Iran,Syria,1.0,1.0,AFC Asian Cup,Doha,Qatar,True,876,0.17342674287984836,0.75,0.13007005715988626
+2024-01-23,Iran,United Arab Emirates,2.0,1.0,AFC Asian Cup,Al Rayyan,Qatar,True,884,0.17067399569626215,0.75,0.1280054967721966
+2024-01-19,Hong Kong,Iran,0.0,1.0,AFC Asian Cup,Al Rayyan,Qatar,True,888,0.16931405076345518,0.75,0.1269855380725914
+2024-01-14,Iran,Palestine,4.0,1.0,AFC Asian Cup,Al Rayyan,Qatar,True,893,0.167629347809757,0.75,0.12572201085731774
+2026-06-06,England,New Zealand,1.0,0.0,Friendly,Tampa,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-03-30,New Zealand,Chile,4.0,1.0,FIFA Series,Auckland,New Zealand,False,87,0.8402968976584314,0.75,0.6302226732438235
+2026-03-27,New Zealand,Finland,0.0,2.0,FIFA Series,Auckland,New Zealand,False,90,0.835270211411272,0.75,0.626452658558454
+2025-11-15,Colombia,New Zealand,2.0,1.0,Friendly,Fort Lauderdale,United States,True,222,0.6414654208273198,0.75,0.4810990656204899
+2025-10-14,Norway,New Zealand,1.0,1.0,Friendly,Oslo,Norway,False,254,0.6016977717621094,0.75,0.451273328821582
+2025-10-09,Poland,New Zealand,1.0,0.0,Friendly,Chorzów,Poland,False,259,0.5957107789003212,0.75,0.44678308417524093
+2025-06-10,New Zealand,Ukraine,1.0,2.0,Canadian Shield,Toronto,Canada,True,380,0.46766642700990924,0.75,0.35074982025743195
+2025-03-24,New Zealand,New Caledonia,3.0,0.0,FIFA World Cup qualification,Auckland,New Zealand,False,458,0.40011630965630496,1.5,0.6001744644844574
+2025-03-21,New Zealand,Fiji,7.0,0.0,FIFA World Cup qualification,Wellington,New Zealand,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-18,New Zealand,Samoa,8.0,0.0,FIFA World Cup qualification,Auckland,New Zealand,False,584,0.3109882962959281,1.5,0.4664824444438922
+2024-11-15,New Zealand,Vanuatu,8.0,1.0,FIFA World Cup qualification,Hamilton,New Zealand,False,587,0.30912795312868047,1.5,0.4636919296930207
+2024-10-14,New Zealand,Malaysia,4.0,0.0,Friendly,Auckland,New Zealand,False,619,0.2899635655294032,0.75,0.2174726741470524
+2024-10-11,New Zealand,Tahiti,3.0,0.0,FIFA World Cup qualification,Port Vila,Vanuatu,True,622,0.2882289930573573,1.5,0.4323434895860359
+2024-09-07,Mexico,New Zealand,3.0,0.0,Friendly,Pasadena,United States,True,656,0.26928095555244996,0.75,0.20196071666433746
+2024-06-30,Vanuatu,New Zealand,0.0,3.0,Oceania Nations Cup,Port Vila,Vanuatu,False,725,0.23457028809379765,1.1,0.25802731690317743
+2024-06-27,New Zealand,Tahiti,5.0,0.0,Oceania Nations Cup,Port Vila,Vanuatu,True,728,0.2331670801985418,1.1,0.256483788218396
+2024-06-21,Vanuatu,New Zealand,0.0,4.0,Oceania Nations Cup,Port Vila,Vanuatu,False,734,0.23038579631478834,1.1,0.2534243759462672
+2024-06-18,New Zealand,Solomon Islands,3.0,0.0,Oceania Nations Cup,Port Vila,Vanuatu,True,737,0.2290076201997705,1.1,0.2519083822197476
+2024-03-26,New Zealand,Tunisia,0.0,0.0,FIFA Series,Cairo,Egypt,True,821,0.1935924699078839,0.75,0.14519435243091292
+2024-03-22,Egypt,New Zealand,1.0,0.0,FIFA Series,Cairo,Egypt,False,825,0.19204990862075408,0.75,0.14403743146556555
+2023-11-21,Republic of Ireland,New Zealand,1.0,1.0,Friendly,Dublin,Republic of Ireland,False,947,0.15046872856567356,0.75,0.11285154642425517
+2023-11-17,Greece,New Zealand,2.0,0.0,Friendly,Athens,Greece,False,951,0.14926978092210305,0.75,0.11195233569157728
+2026-06-21,Spain,Saudi Arabia,4.0,0.0,FIFA World Cup,Atlanta,United States,True,4,0.9920319148370607,1.5,1.488047872255591
+2026-06-15,Spain,Cape Verde,0.0,0.0,FIFA World Cup,Atlanta,United States,True,10,0.9801986733067553,1.5,1.4702980099601328
+2026-06-08,Peru,Spain,1.0,3.0,Friendly,Puebla,Mexico,True,17,0.9665715046375066,0.75,0.72492862847813
+2026-06-04,Spain,Iraq,1.0,1.0,Friendly,A Coruña,Spain,False,21,0.9588697805724845,0.75,0.7191523354293634
+2026-03-27,Spain,Serbia,3.0,0.0,Friendly,Villarreal,Spain,False,90,0.835270211411272,0.75,0.626452658558454
+2025-11-15,Georgia,Spain,0.0,4.0,FIFA World Cup qualification,Tbilisi,Georgia,False,222,0.6414654208273198,1.5,0.9621981312409797
+2025-10-14,Spain,Bulgaria,4.0,0.0,FIFA World Cup qualification,Valladolid,Spain,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-11,Spain,Georgia,2.0,0.0,FIFA World Cup qualification,Elche,Spain,False,257,0.5980983940627613,1.5,0.897147591094142
+2025-09-04,Bulgaria,Spain,0.0,3.0,FIFA World Cup qualification,Sofia,Bulgaria,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-08,Portugal,Spain,2.0,2.0,UEFA Nations League,Munich,Germany,True,382,0.46579949764982825,1.1,0.5123794474148111
+2025-06-05,Spain,France,5.0,4.0,UEFA Nations League,Stuttgart,Germany,True,385,0.46301306831122807,1.1,0.5093143751423509
+2024-11-15,Denmark,Spain,1.0,2.0,UEFA Nations League,Copenhagen,Denmark,False,587,0.30912795312868047,1.1,0.3400407484415485
+2024-10-15,Spain,Serbia,3.0,0.0,UEFA Nations League,Córdoba,Spain,False,618,0.2905440729744046,1.1,0.31959848027184506
+2024-10-12,Spain,Denmark,1.0,0.0,UEFA Nations League,Murcia,Spain,False,621,0.28880602788595566,1.1,0.3176866306745513
+2024-09-05,Serbia,Spain,0.0,0.0,UEFA Nations League,Belgrade,Serbia,False,658,0.2682059831084244,1.1,0.2950265814192669
+2024-07-14,Spain,England,2.0,1.0,UEFA Euro,Berlin,Germany,True,711,0.24123107196915192,1.3,0.3136003935598975
+2024-07-09,Spain,France,2.0,1.0,UEFA Euro,Munich,Germany,True,716,0.23883078269819244,1.3,0.3104800175076502
+2024-06-30,Spain,Georgia,4.0,1.0,UEFA Euro,Cologne,Germany,True,725,0.23457028809379765,1.3,0.304941374521937
+2024-06-24,Albania,Spain,0.0,1.0,UEFA Euro,Düsseldorf,Germany,True,731,0.23177226634335515,1.3,0.3013039462463617
+2024-06-20,Spain,Italy,1.0,0.0,UEFA Euro,Gelsenkirchen,Germany,True,735,0.22992548518672384,1.3,0.298903130742741
+2024-06-15,Spain,Croatia,3.0,0.0,UEFA Euro,Berlin,Germany,True,740,0.22763768838381274,1.3,0.2959289948989566
+2024-06-08,Spain,Northern Ireland,5.0,1.0,Friendly,Mallorca,Spain,False,747,0.22447296549695234,0.75,0.16835472412271424
+2026-06-21,Uruguay,Cape Verde,2.0,2.0,FIFA World Cup,Miami Gardens,United States,True,4,0.9920319148370607,1.5,1.488047872255591
+2026-06-06,Bermuda,Cape Verde,3.0,0.0,Friendly,East Hartford,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-05-31,Cape Verde,Serbia,3.0,0.0,Friendly,Lisbon,Portugal,True,25,0.951229424500714,0.75,0.7134220683755355
+2026-03-30,Cape Verde,Finland,1.0,1.0,FIFA Series,Auckland,New Zealand,True,87,0.8402968976584314,0.75,0.6302226732438235
+2026-03-27,Chile,Cape Verde,4.0,2.0,FIFA Series,Auckland,New Zealand,True,90,0.835270211411272,0.75,0.626452658558454
+2025-10-13,Cape Verde,Eswatini,3.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False,255,0.6004955788122659,1.5,0.9007433682183988
+2025-10-08,Libya,Cape Verde,3.0,3.0,FIFA World Cup qualification,Tripoli,Libya,False,260,0.5945205479701944,1.5,0.8917808219552916
+2025-09-09,Cape Verde,Cameroon,1.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-04,Mauritius,Cape Verde,0.0,2.0,FIFA World Cup qualification,Saint Pierre,Mauritius,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-08,Georgia,Cape Verde,1.0,1.0,Friendly,Kutaisi,Georgia,False,382,0.46579949764982825,0.75,0.3493496232373712
+2025-06-03,Malaysia,Cape Verde,0.0,3.0,Friendly,Kuala Lumpur,Malaysia,False,387,0.4611647152086584,0.75,0.3458735364064938
+2025-05-29,Malaysia,Cape Verde,1.0,1.0,Friendly,Kuala Lumpur,Malaysia,False,392,0.4565760496233147,0.75,0.34243203721748605
+2025-03-25,Angola,Cape Verde,1.0,2.0,FIFA World Cup qualification,Luanda,Angola,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,Cape Verde,Mauritius,1.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-11-19,Mauritania,Cape Verde,1.0,0.0,African Cup of Nations qualification,Nouakchott,Mauritania,False,583,0.31161089527997105,1.25,0.3895136190999638
+2024-10-15,Botswana,Cape Verde,1.0,0.0,African Cup of Nations qualification,Francistown,Botswana,False,618,0.2905440729744046,1.25,0.36318009121800576
+2024-10-10,Cape Verde,Botswana,0.0,1.0,African Cup of Nations qualification,Praia,Cape Verde,False,623,0.2876531111451154,1.25,0.35956638893139425
+2024-09-10,Cape Verde,Mauritania,2.0,0.0,African Cup of Nations qualification,Praia,Cape Verde,False,653,0.27090149805163766,1.25,0.33862687256454704
+2024-06-11,Cape Verde,Libya,1.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False,744,0.22582385189647586,1.5,0.33873577784471376
+2024-06-08,Cameroon,Cape Verde,4.0,1.0,FIFA World Cup qualification,Yaoundé,Cameroon,False,747,0.22447296549695234,1.5,0.3367094482454285
+2024-03-25,Cape Verde,Equatorial Guinea,1.0,0.0,FIFA Series,Jeddah,Saudi Arabia,True,822,0.19320567189501364,0.75,0.14490425392126022
+2024-03-21,Cape Verde,Guyana,1.0,0.0,FIFA Series,Jeddah,Saudi Arabia,True,826,0.19166619264739126,0.75,0.14374964448554345
+2024-02-03,Cape Verde,South Africa,0.0,0.0,African Cup of Nations,Yamoussoukro,Ivory Coast,True,873,0.17447043127123832,1.1,0.19191747439836215
+2024-01-29,Cape Verde,Mauritania,1.0,0.0,African Cup of Nations,Abidjan,Ivory Coast,True,878,0.17273442147423515,1.1,0.19000786362165867
+2024-01-22,Cape Verde,Egypt,2.0,2.0,African Cup of Nations,Abidjan,Ivory Coast,True,885,0.17033298882540943,1.1,0.18736628770795039
+2026-06-15,Saudi Arabia,Uruguay,1.0,1.0,FIFA World Cup,Miami Gardens,United States,True,10,0.9801986733067553,1.5,1.4702980099601328
+2026-06-09,Saudi Arabia,Senegal,0.0,0.0,Friendly,San Antonio,United States,True,16,0.9685065820791976,0.75,0.7263799365593981
+2026-06-05,Puerto Rico,Saudi Arabia,0.0,3.0,Friendly,Austin,United States,True,20,0.9607894391523232,0.75,0.7205920793642424
+2026-03-31,Serbia,Saudi Arabia,2.0,1.0,Friendly,Bačka Topola,Serbia,False,86,0.8419791731684999,0.75,0.631484379876375
+2025-12-15,Saudi Arabia,Jordan,0.0,1.0,Arab Cup,Al Khor,Qatar,True,192,0.6811314271795471,0.75,0.5108485703846604
+2025-12-11,Palestine,Saudi Arabia,1.0,2.0,Arab Cup,Lusail,Qatar,True,196,0.675704113960626,0.75,0.5067780854704695
+2025-12-05,Comoros,Saudi Arabia,1.0,3.0,Arab Cup,Al Khor,Qatar,True,202,0.6676441212689289,0.75,0.5007330909516967
+2025-12-02,Saudi Arabia,Oman,2.0,1.0,Arab Cup,Al Rayyan,Qatar,True,205,0.6636502501363194,0.75,0.4977376876022396
+2025-11-18,Saudi Arabia,Algeria,0.0,2.0,Friendly,Jeddah,Saudi Arabia,False,219,0.6453257828572946,0.75,0.4839943371429709
+2025-10-14,Saudi Arabia,Iraq,0.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-08,Saudi Arabia,Indonesia,3.0,2.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,260,0.5945205479701944,1.5,0.8917808219552916
+2025-09-04,Saudi Arabia,North Macedonia,2.0,1.0,Friendly,Prague,Czech Republic,True,294,0.5554370486980182,0.75,0.4165777865235137
+2025-06-22,Saudi Arabia,Trinidad and Tobago,1.0,1.0,Gold Cup,Paradise,United States,True,368,0.4790261931887511,1.15,0.5508801221670637
+2025-06-05,Bahrain,Saudi Arabia,0.0,2.0,FIFA World Cup qualification,Riffa,Bahrain,False,385,0.46301306831122807,1.5,0.6945196024668421
+2025-05-30,Saudi Arabia,Jordan,2.0,0.0,Friendly,Dammam,Saudi Arabia,False,391,0.45749011548373314,0.75,0.34311758661279984
+2025-03-20,Saudi Arabia,China,1.0,0.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-12-31,Oman,Saudi Arabia,2.0,1.0,Gulf Cup,Sulaibikhat,Kuwait,True,541,0.3389170133321328,0.75,0.2541877599990996
+2024-12-28,Iraq,Saudi Arabia,1.0,3.0,Gulf Cup,Kuwait City,Kuwait,True,544,0.33688959957564707,0.75,0.2526671996817353
+2024-12-25,Yemen,Saudi Arabia,2.0,3.0,Gulf Cup,Sulaibikhat,Kuwait,True,547,0.3348743138811302,0.75,0.2511557354108477
+2026-03-31,Algeria,Uruguay,0.0,0.0,Friendly,Turin,Italy,True,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,England,Uruguay,1.0,1.0,Friendly,London,England,False,90,0.835270211411272,0.75,0.626452658558454
+2025-10-13,Uzbekistan,Uruguay,1.0,2.0,Friendly,Malacca City,Malaysia,True,255,0.6004955788122659,0.75,0.4503716841091994
+2025-10-10,Uruguay,Dominican Republic,1.0,0.0,Friendly,Kuala Lumpur,Malaysia,True,258,0.596903392674358,0.75,0.44767754450576847
+2025-09-09,Chile,Uruguay,0.0,0.0,FIFA World Cup qualification,Santiago,Chile,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-04,Uruguay,Peru,3.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-10,Uruguay,Venezuela,2.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-03-25,Bolivia,Uruguay,0.0,0.0,FIFA World Cup qualification,El Alto,Bolivia,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-21,Uruguay,Argentina,0.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-15,Uruguay,Colombia,3.0,2.0,FIFA World Cup qualification,Montevideo,Uruguay,False,587,0.30912795312868047,1.5,0.4636919296930207
+2024-10-11,Peru,Uruguay,1.0,0.0,FIFA World Cup qualification,Lima,Peru,False,622,0.2882289930573573,1.5,0.4323434895860359
+2024-09-10,Venezuela,Uruguay,0.0,0.0,FIFA World Cup qualification,Maturín,Venezuela,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-01,Guatemala,Uruguay,1.0,1.0,Friendly,Fort Lauderdale,United States,True,662,0.26606889499380665,0.75,0.199551671245355
+2024-07-10,Uruguay,Colombia,0.0,1.0,Copa América,Charlotte,United States,True,715,0.23930892224375455,0.75,0.1794816916828159
+2024-07-01,United States,Uruguay,0.0,1.0,Copa América,Kansas City,United States,False,724,0.23503989812347828,0.75,0.17627992359260872
+2024-06-27,Uruguay,Bolivia,5.0,0.0,Copa América,East Rutherford,United States,True,728,0.2331670801985418,0.75,0.17487531014890634
+2024-06-23,Uruguay,Panama,3.0,1.0,Copa América,Miami Gardens,United States,True,732,0.23130918504632592,0.75,0.17348188878474444
+2024-06-05,Mexico,Uruguay,0.0,4.0,Friendly,Denver,United States,True,750,0.22313016014842982,0.75,0.16734762011132237
+2024-05-31,Costa Rica,Uruguay,0.0,0.0,Friendly,San José,Costa Rica,False,755,0.2209099779593782,0.75,0.16568248346953365
+2024-05-21,Basque Country,Uruguay,1.0,1.0,Friendly,Bilbao,Spain,False,765,0.21653566731600707,0.75,0.1624017504870053
+2026-06-22,France,Iraq,3.0,0.0,FIFA World Cup,Philadelphia,United States,True,3,0.9940179640539353,1.5,1.491026946080903
+2026-06-16,France,Senegal,3.0,1.0,FIFA World Cup,East Rutherford,United States,True,9,0.9821610323583008,1.5,1.4732415485374513
+2026-06-08,France,Northern Ireland,3.0,1.0,Friendly,Lille,France,False,17,0.9665715046375066,0.75,0.72492862847813
+2026-03-29,Colombia,France,1.0,3.0,Friendly,Landover,United States,True,88,0.838617983337074,0.75,0.6289634875028055
+2025-11-16,Azerbaijan,France,1.0,3.0,FIFA World Cup qualification,Baku,Azerbaijan,False,221,0.6427496354555312,1.5,0.9641244531832969
+2025-11-13,France,Ukraine,4.0,0.0,FIFA World Cup qualification,Paris,France,False,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-13,Iceland,France,2.0,2.0,FIFA World Cup qualification,Reykjavík,Iceland,False,255,0.6004955788122659,1.5,0.9007433682183988
+2025-10-10,France,Azerbaijan,3.0,0.0,FIFA World Cup qualification,Paris,France,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-09,France,Iceland,2.0,1.0,FIFA World Cup qualification,Paris,France,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-05,Ukraine,France,0.0,2.0,FIFA World Cup qualification,Wrocław,Poland,True,293,0.5565490344104649,1.5,0.8348235516156973
+2025-03-23,France,Croatia,2.0,0.0,UEFA Nations League,Paris,France,False,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Croatia,France,2.0,0.0,UEFA Nations League,Split,Croatia,False,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-17,Italy,France,1.0,3.0,UEFA Nations League,Milan,Italy,False,585,0.31036694126548503,1.1,0.34140363539203356
+2024-11-14,France,Israel,0.0,0.0,UEFA Nations League,Paris,France,False,588,0.3085103150663647,1.1,0.3393613465730012
+2024-10-10,Israel,France,1.0,4.0,UEFA Nations League,Budapest,Hungary,True,623,0.2876531111451154,1.1,0.31641842225962696
+2024-09-06,France,Italy,1.0,3.0,UEFA Nations League,Paris,France,False,657,0.26874293184439435,1.1,0.2956172250288338
+2024-07-05,Portugal,France,0.0,0.0,UEFA Euro,Hamburg,Germany,True,720,0.23692775868212176,1.3,0.3080060862867583
+2024-06-25,France,Poland,1.0,1.0,UEFA Euro,Dortmund,Germany,True,730,0.23223627472975883,1.3,0.3019071571486865
+2024-06-17,Austria,France,0.0,1.0,UEFA Euro,Düsseldorf,Germany,True,738,0.2285500626694205,1.3,0.2971150814702466
+2024-06-09,France,Canada,0.0,0.0,Friendly,Bordeaux,France,False,746,0.22492236067332425,0.75,0.16869177050499318
+2024-06-05,France,Luxembourg,3.0,0.0,Friendly,Metz,France,False,750,0.22313016014842982,0.75,0.16734762011132237
+2026-06-22,Norway,Senegal,3.0,2.0,FIFA World Cup,East Rutherford,United States,True,3,0.9940179640539353,1.5,1.491026946080903
+2026-03-31,Senegal,Gambia,3.0,1.0,Friendly,Diamniadio,Senegal,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-28,Senegal,Peru,2.0,0.0,Friendly,Paris,France,True,89,0.8369424234887681,0.75,0.6277068176165761
+2026-01-09,Mali,Senegal,0.0,1.0,African Cup of Nations,Tangier,Morocco,True,167,0.7160537822272085,1.1,0.7876591604499295
+2026-01-03,Senegal,Sudan,3.0,1.0,African Cup of Nations,Tangier,Morocco,True,173,0.7075124871065017,1.1,0.7782637358171519
+2025-12-30,Benin,Senegal,0.0,3.0,African Cup of Nations,Tangier,Morocco,True,177,0.701874967355394,1.1,0.7720624640909335
+2025-12-27,Senegal,DR Congo,1.0,1.0,African Cup of Nations,Tangier,Morocco,True,180,0.697676326071031,1.1,0.7674439586781342
+2025-12-23,Senegal,Botswana,3.0,0.0,African Cup of Nations,Tangier,Morocco,True,184,0.6921171816887304,1.1,0.7613288998576034
+2025-11-18,Kenya,Senegal,0.0,8.0,Friendly,Antalya,Turkey,True,219,0.6453257828572946,0.75,0.4839943371429709
+2025-10-14,Senegal,Mauritania,4.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-10,South Sudan,Senegal,0.0,5.0,FIFA World Cup qualification,Juba,South Sudan,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-09,DR Congo,Senegal,2.0,3.0,FIFA World Cup qualification,Kinshasa,DR Congo,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-05,Senegal,Sudan,2.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-10,England,Senegal,1.0,3.0,Friendly,London,England,False,380,0.46766642700990924,0.75,0.35074982025743195
+2025-06-06,Republic of Ireland,Senegal,1.0,1.0,Friendly,Dublin,Republic of Ireland,False,384,0.4639400210916467,0.75,0.34795501581873506
+2025-03-25,Senegal,Togo,2.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-22,Sudan,Senegal,0.0,0.0,FIFA World Cup qualification,Benghazi,Libya,True,460,0.39851904108451414,1.5,0.5977785616267712
+2024-11-19,Senegal,Burundi,2.0,0.0,African Cup of Nations qualification,Dakar,Senegal,False,583,0.31161089527997105,1.25,0.3895136190999638
+2024-11-14,Burkina Faso,Senegal,0.0,1.0,African Cup of Nations qualification,Bamako,Mali,True,588,0.3085103150663647,1.25,0.3856378938329559
+2024-10-15,Malawi,Senegal,0.0,1.0,African Cup of Nations qualification,Lilongwe,Malawi,False,618,0.2905440729744046,1.25,0.36318009121800576
+2024-10-11,Senegal,Malawi,4.0,0.0,African Cup of Nations qualification,Diamniadio,Senegal,False,622,0.2882289930573573,1.25,0.3602862413216966
+2024-09-09,Burundi,Senegal,0.0,1.0,African Cup of Nations qualification,Lilongwe,Malawi,True,654,0.270360236497509,1.25,0.3379502956218863
+2024-09-06,Senegal,Burkina Faso,1.0,1.0,African Cup of Nations qualification,Diamniadio,Senegal,False,657,0.26874293184439435,1.25,0.33592866480549294
+2024-06-09,Mauritania,Senegal,0.0,1.0,FIFA World Cup qualification,Nouakchott,Mauritania,False,746,0.22492236067332425,1.5,0.33738354100998635
+2026-06-16,Iraq,Norway,1.0,4.0,FIFA World Cup,Foxborough,United States,True,9,0.9821610323583008,1.5,1.4732415485374513
+2026-06-09,Iraq,Venezuela,0.0,2.0,Friendly,Bridgeview,United States,True,16,0.9685065820791976,0.75,0.7263799365593981
+2026-05-29,Andorra,Iraq,0.0,1.0,Friendly,Girona,Spain,True,27,0.9474321065017983,0.75,0.7105740798763487
+2026-03-31,Iraq,Bolivia,2.0,1.0,FIFA World Cup qualification,Guadalupe,Mexico,True,86,0.8419791731684999,1.5,1.26296875975275
+2025-12-12,Jordan,Iraq,1.0,0.0,Arab Cup,Al Rayyan,Qatar,True,195,0.6770568744981647,0.75,0.5077926558736234
+2025-12-09,Algeria,Iraq,2.0,0.0,Arab Cup,Al Rayyan,Qatar,True,198,0.6730066959373864,0.75,0.5047550219530398
+2025-12-06,Sudan,Iraq,0.0,2.0,Arab Cup,Doha,Qatar,True,201,0.6689807456903467,0.75,0.50173555926776
+2025-12-03,Iraq,Bahrain,2.0,1.0,Arab Cup,Doha,Qatar,True,204,0.6649788788224019,0.75,0.4987341591168014
+2025-11-18,Iraq,United Arab Emirates,2.0,1.0,FIFA World Cup qualification,Basra,Iraq,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-13,United Arab Emirates,Iraq,1.0,1.0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-11,Iraq,Indonesia,1.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,True,257,0.5980983940627613,1.5,0.897147591094142
+2025-09-07,Thailand,Iraq,0.0,1.0,King's Cup,Kanchanaburi,Thailand,False,291,0.5587796888828463,0.75,0.4190847666621348
+2025-09-04,Iraq,Hong Kong,2.0,1.0,King's Cup,Kanchanaburi,Thailand,True,294,0.5554370486980182,0.75,0.4165777865235137
+2025-06-10,Jordan,Iraq,0.0,1.0,FIFA World Cup qualification,Amman,Jordan,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-03-25,Palestine,Iraq,2.0,1.0,FIFA World Cup qualification,Amman,Jordan,True,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-20,Iraq,Kuwait,2.0,2.0,FIFA World Cup qualification,Basra,Iraq,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-12-25,Bahrain,Iraq,2.0,0.0,Gulf Cup,Kuwait City,Kuwait,True,547,0.3348743138811302,0.75,0.2511557354108477
+2024-12-22,Iraq,Yemen,1.0,0.0,Gulf Cup,Sulaibikhat,Kuwait,True,550,0.33287108369807955,0.75,0.24965331277355968
+2024-11-19,Oman,Iraq,0.0,1.0,FIFA World Cup qualification,Muscat,Oman,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-11-14,Iraq,Jordan,0.0,0.0,FIFA World Cup qualification,Basra,Iraq,False,588,0.3085103150663647,1.5,0.4627654725995471
+2024-10-10,Iraq,Palestine,1.0,0.0,FIFA World Cup qualification,Basra,Iraq,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-10,Kuwait,Iraq,0.0,0.0,FIFA World Cup qualification,Kuwait City,Kuwait,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-05,Iraq,Oman,1.0,0.0,FIFA World Cup qualification,Basra,Iraq,False,658,0.2682059831084244,1.5,0.4023089746626366
+2024-06-11,Iraq,Vietnam,3.0,1.0,FIFA World Cup qualification,Basra,Iraq,False,744,0.22582385189647586,1.5,0.33873577784471376
+2025-11-16,Italy,Norway,1.0,4.0,FIFA World Cup qualification,Milan,Italy,False,221,0.6427496354555312,1.5,0.9641244531832969
+2025-11-13,Norway,Estonia,4.0,1.0,FIFA World Cup qualification,Oslo,Norway,False,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-11,Norway,Israel,5.0,0.0,FIFA World Cup qualification,Oslo,Norway,False,257,0.5980983940627613,1.5,0.897147591094142
+2025-09-09,Norway,Moldova,11.0,1.0,FIFA World Cup qualification,Oslo,Norway,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-04,Norway,Finland,1.0,0.0,Friendly,Oslo,Norway,False,294,0.5554370486980182,0.75,0.4165777865235137
+2025-06-09,Estonia,Norway,0.0,1.0,FIFA World Cup qualification,Tallinn,Estonia,False,381,0.46673202886549986,1.5,0.7000980432982498
+2025-06-06,Norway,Italy,3.0,0.0,FIFA World Cup qualification,Oslo,Norway,False,384,0.4639400210916467,1.5,0.6959100316374701
+2025-03-25,Israel,Norway,2.0,4.0,FIFA World Cup qualification,Debrecen,Hungary,True,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-22,Moldova,Norway,0.0,5.0,FIFA World Cup qualification,Chișinău,Moldova,False,460,0.39851904108451414,1.5,0.5977785616267712
+2024-11-17,Norway,Kazakhstan,5.0,0.0,UEFA Nations League,Oslo,Norway,False,585,0.31036694126548503,1.1,0.34140363539203356
+2024-11-14,Slovenia,Norway,1.0,4.0,UEFA Nations League,Ljubljana,Slovenia,False,588,0.3085103150663647,1.1,0.3393613465730012
+2024-10-13,Austria,Norway,5.0,1.0,UEFA Nations League,Linz,Austria,False,620,0.2893842179390506,1.1,0.3183226397329557
+2024-10-10,Norway,Slovenia,3.0,0.0,UEFA Nations League,Oslo,Norway,False,623,0.2876531111451154,1.1,0.31641842225962696
+2024-09-09,Norway,Austria,2.0,1.0,UEFA Nations League,Oslo,Norway,False,654,0.270360236497509,1.1,0.29739626014725995
+2024-09-06,Kazakhstan,Norway,0.0,0.0,UEFA Nations League,Almaty,Kazakhstan,False,657,0.26874293184439435,1.1,0.2956172250288338
+2024-06-08,Denmark,Norway,3.0,1.0,Friendly,Brondbyvester,Denmark,False,747,0.22447296549695234,0.75,0.16835472412271424
+2024-06-05,Norway,Kosovo,3.0,0.0,Friendly,Oslo,Norway,False,750,0.22313016014842982,0.75,0.16734762011132237
+2024-03-26,Norway,Slovakia,1.0,1.0,Friendly,Oslo,Norway,False,821,0.1935924699078839,0.75,0.14519435243091292
+2023-11-19,Scotland,Norway,3.0,3.0,UEFA Euro qualification,Glasgow,Scotland,False,949,0.14986805579784332,1.25,0.18733506974730416
+2023-11-16,Norway,Faroe Islands,2.0,0.0,Friendly,Oslo,Norway,False,952,0.1489715397008938,0.75,0.11172865477567034
+2023-10-15,Norway,Spain,0.0,1.0,UEFA Euro qualification,Oslo,Norway,False,984,0.13973604902722894,1.25,0.17467006128403617
+2023-10-12,Cyprus,Norway,0.0,4.0,UEFA Euro qualification,Larnaca,Cyprus,False,987,0.138900142958987,1.25,0.17362517869873376
+2026-06-22,Argentina,Austria,2.0,0.0,FIFA World Cup,Arlington,United States,True,3,0.9940179640539353,1.5,1.491026946080903
+2026-06-16,Argentina,Algeria,3.0,0.0,FIFA World Cup,Kansas City,United States,True,9,0.9821610323583008,1.5,1.4732415485374513
+2026-06-09,Argentina,Iceland,3.0,0.0,Friendly,Auburn,United States,True,16,0.9685065820791976,0.75,0.7263799365593981
+2026-06-06,Argentina,Honduras,2.0,0.0,Friendly,College Station,United States,True,19,0.9627129408911995,0.75,0.7220347056683997
+2026-03-31,Argentina,Zambia,5.0,0.0,Friendly,Buenos Aires,Argentina,False,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,Argentina,Mauritania,2.0,1.0,Friendly,Buenos Aires,Argentina,False,90,0.835270211411272,0.75,0.626452658558454
+2025-11-14,Angola,Argentina,0.0,2.0,Friendly,Luanda,Angola,False,223,0.6401837720616471,0.75,0.48013782904623536
+2025-10-14,Puerto Rico,Argentina,0.0,6.0,Friendly,Fort Lauderdale,United States,True,254,0.6016977717621094,0.75,0.451273328821582
+2025-10-10,Argentina,Venezuela,1.0,0.0,Friendly,Miami Gardens,United States,True,258,0.596903392674358,0.75,0.44767754450576847
+2025-09-04,Argentina,Venezuela,3.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-10,Argentina,Colombia,1.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-05,Chile,Argentina,0.0,1.0,FIFA World Cup qualification,Santiago,Chile,False,385,0.46301306831122807,1.5,0.6945196024668421
+2024-11-19,Argentina,Peru,1.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-10-15,Argentina,Bolivia,6.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-10-10,Venezuela,Argentina,1.0,1.0,FIFA World Cup qualification,Maturín,Venezuela,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-10,Colombia,Argentina,2.0,1.0,FIFA World Cup qualification,Barranquilla,Colombia,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-05,Argentina,Chile,3.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,658,0.2682059831084244,1.5,0.4023089746626366
+2024-07-14,Argentina,Colombia,1.0,0.0,Copa América,Miami Gardens,United States,True,711,0.24123107196915192,0.75,0.18092330397686393
+2024-06-29,Argentina,Peru,2.0,0.0,Copa América,Miami Gardens,United States,True,726,0.2341016163455822,0.75,0.17557621225918663
+2024-06-25,Chile,Argentina,0.0,1.0,Copa América,East Rutherford,United States,True,730,0.23223627472975883,0.75,0.17417720604731912
+2024-06-20,Argentina,Canada,2.0,0.0,Copa América,Atlanta,United States,True,735,0.22992548518672384,0.75,0.17244411389004288
+2024-06-14,Argentina,Guatemala,4.0,1.0,Friendly,Landover,United States,True,741,0.22718286797905665,0.75,0.1703871509842925
+2024-03-26,Argentina,Costa Rica,3.0,1.0,Friendly,Los Angeles,United States,True,821,0.1935924699078839,0.75,0.14519435243091292
+2026-06-22,Jordan,Algeria,1.0,2.0,FIFA World Cup,Santa Clara,United States,True,3,0.9940179640539353,1.5,1.491026946080903
+2026-06-10,Bolivia,Algeria,0.0,4.0,Friendly,Kansas City,United States,True,15,0.9704455335485082,0.75,0.7278341501613811
+2026-03-27,Algeria,Guatemala,7.0,0.0,Friendly,Genoa,Italy,True,90,0.835270211411272,0.75,0.626452658558454
+2026-01-10,Algeria,Nigeria,0.0,2.0,African Cup of Nations,Marrakesh,Morocco,True,166,0.7174873228544433,1.1,0.7892360551398877
+2026-01-06,Algeria,DR Congo,1.0,0.0,African Cup of Nations,Rabat,Morocco,True,170,0.7117703227626097,1.1,0.7829473550388707
+2025-12-31,Equatorial Guinea,Algeria,1.0,3.0,African Cup of Nations,Rabat,Morocco,True,176,0.7032801219763409,1.1,0.7736081341739751
+2025-12-28,Algeria,Burkina Faso,1.0,0.0,African Cup of Nations,Rabat,Morocco,True,179,0.6990730750065257,1.1,0.7689803825071784
+2025-12-24,Algeria,Sudan,3.0,0.0,African Cup of Nations,Rabat,Morocco,True,183,0.6935028012097558,1.1,0.7628530813307315
+2025-12-12,Algeria,United Arab Emirates,1.0,1.0,Arab Cup,Al Khor,Qatar,True,195,0.6770568744981647,0.75,0.5077926558736234
+2025-12-06,Bahrain,Algeria,1.0,5.0,Arab Cup,Al Rayyan,Qatar,True,201,0.6689807456903467,0.75,0.50173555926776
+2025-12-03,Algeria,Sudan,0.0,0.0,Arab Cup,Al Rayyan,Qatar,True,204,0.6649788788224019,0.75,0.4987341591168014
+2025-11-13,Algeria,Zimbabwe,3.0,1.0,Friendly,Jeddah,Saudi Arabia,True,224,0.6389046840319162,0.75,0.4791785130239372
+2025-10-14,Algeria,Uganda,2.0,1.0,FIFA World Cup qualification,Tizi Ouzou,Algeria,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-09,Algeria,Somalia,3.0,0.0,FIFA World Cup qualification,Bir El Djir,Algeria,False,259,0.5957107789003212,1.5,0.8935661683504819
+2025-09-08,Guinea,Algeria,0.0,0.0,FIFA World Cup qualification,Casablanca,Morocco,True,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-04,Algeria,Botswana,3.0,1.0,FIFA World Cup qualification,Tizi Ouzou,Algeria,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-09,Algeria,Rwanda,2.0,0.0,Friendly,Blida,Algeria,False,381,0.46673202886549986,0.75,0.3500490216491249
+2025-06-05,Algeria,Rwanda,2.0,0.0,Friendly,Constantine,Algeria,False,385,0.46301306831122807,0.75,0.34725980123342104
+2025-03-25,Algeria,Mozambique,5.0,1.0,FIFA World Cup qualification,Tizi Ouzou,Algeria,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-21,Botswana,Algeria,1.0,3.0,FIFA World Cup qualification,Francistown,Botswana,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-17,Algeria,Liberia,5.0,1.0,African Cup of Nations qualification,Tizi Ouzou,Algeria,False,585,0.31036694126548503,1.25,0.3879586765818563
+2024-11-14,Equatorial Guinea,Algeria,0.0,0.0,African Cup of Nations qualification,Malabo,Equatorial Guinea,False,588,0.3085103150663647,1.25,0.3856378938329559
+2024-10-14,Togo,Algeria,0.0,1.0,African Cup of Nations qualification,Lomé,Togo,False,619,0.2899635655294032,1.25,0.36245445691175404
+2024-10-10,Algeria,Togo,5.0,1.0,African Cup of Nations qualification,Annaba,Algeria,False,623,0.2876531111451154,1.25,0.35956638893139425
+2026-06-16,Austria,Jordan,3.0,1.0,FIFA World Cup,Santa Clara,United States,True,9,0.9821610323583008,1.5,1.4732415485374513
+2026-03-27,Austria,Ghana,5.0,1.0,Friendly,Vienna,Austria,False,90,0.835270211411272,0.75,0.626452658558454
+2025-11-15,Cyprus,Austria,0.0,2.0,FIFA World Cup qualification,Limassol,Cyprus,False,222,0.6414654208273198,1.5,0.9621981312409797
+2025-10-12,Romania,Austria,1.0,0.0,FIFA World Cup qualification,Bucharest,Romania,False,256,0.5992957878455384,1.5,0.8989436817683076
+2025-10-09,Austria,San Marino,10.0,0.0,FIFA World Cup qualification,Vienna,Austria,False,259,0.5957107789003212,1.5,0.8935661683504819
+2025-09-06,Austria,Cyprus,1.0,0.0,FIFA World Cup qualification,Linz,Austria,False,292,0.5576632463197913,1.5,0.8364948694796869
+2025-06-10,San Marino,Austria,0.0,4.0,FIFA World Cup qualification,Serravalle,San Marino,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-07,Austria,Romania,2.0,1.0,FIFA World Cup qualification,Vienna,Austria,False,383,0.46486882963276827,1.5,0.6973032444491524
+2025-03-23,Serbia,Austria,2.0,0.0,UEFA Nations League,Belgrade,Serbia,False,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Austria,Serbia,1.0,1.0,UEFA Nations League,Vienna,Austria,False,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-17,Austria,Slovenia,1.0,1.0,UEFA Nations League,Vienna,Austria,False,585,0.31036694126548503,1.1,0.34140363539203356
+2024-11-14,Kazakhstan,Austria,0.0,2.0,UEFA Nations League,Almaty,Kazakhstan,False,588,0.3085103150663647,1.1,0.3393613465730012
+2024-10-10,Austria,Kazakhstan,4.0,0.0,UEFA Nations League,Salzburg,Austria,False,623,0.2876531111451154,1.1,0.31641842225962696
+2024-09-06,Slovenia,Austria,1.0,1.0,UEFA Nations League,Ljubljana,Slovenia,False,657,0.26874293184439435,1.1,0.2956172250288338
+2024-06-21,Poland,Austria,1.0,3.0,UEFA Euro,Berlin,Germany,True,734,0.23038579631478834,1.3,0.29950153520922485
+2024-06-04,Austria,Serbia,2.0,1.0,Friendly,Vienna,Austria,False,751,0.22268434579109508,0.75,0.1670132593433213
+2024-03-26,Austria,Turkey,6.0,1.0,Friendly,Vienna,Austria,False,821,0.1935924699078839,0.75,0.14519435243091292
+2024-03-23,Slovakia,Austria,0.0,2.0,Friendly,Bratislava,Slovakia,False,824,0.19243439279400748,0.75,0.1443257945955056
+2023-11-21,Austria,Germany,2.0,0.0,Friendly,Vienna,Austria,False,947,0.15046872856567356,0.75,0.11285154642425517
+2026-06-07,Jordan,Colombia,0.0,2.0,Friendly,San Diego,United States,True,18,0.9646402934831231,0.75,0.7234802201123423
+2026-03-31,Jordan,Nigeria,2.0,2.0,Friendly,Antalya,Turkey,True,86,0.8419791731684999,0.75,0.631484379876375
+2026-03-27,Costa Rica,Jordan,2.0,2.0,Friendly,Antalya,Turkey,True,90,0.835270211411272,0.75,0.626452658558454
+2025-12-06,Kuwait,Jordan,1.0,3.0,Arab Cup,Al Rayyan,Qatar,True,201,0.6689807456903467,0.75,0.50173555926776
+2025-12-03,Jordan,United Arab Emirates,2.0,1.0,Arab Cup,Al Khor,Qatar,True,204,0.6649788788224019,0.75,0.4987341591168014
+2025-11-18,Mali,Jordan,3.0,2.0,Friendly,Radès,Tunisia,True,219,0.6453257828572946,0.75,0.4839943371429709
+2025-10-14,Albania,Jordan,4.0,2.0,Friendly,Tirana,Albania,False,254,0.6016977717621094,0.75,0.451273328821582
+2025-10-10,Jordan,Bolivia,0.0,1.0,Friendly,Istanbul,Turkey,True,258,0.596903392674358,0.75,0.44767754450576847
+2025-09-09,Jordan,Dominican Republic,3.0,0.0,Friendly,Amman,Jordan,False,289,0.5610192838421706,0.75,0.42076446288162794
+2025-09-04,Russia,Jordan,0.0,0.0,Friendly,Moscow,Russia,False,294,0.5554370486980182,0.75,0.4165777865235137
+2025-06-05,Oman,Jordan,0.0,3.0,FIFA World Cup qualification,Muscat,Oman,False,385,0.46301306831122807,1.5,0.6945196024668421
+2025-03-20,Jordan,Palestine,3.0,1.0,FIFA World Cup qualification,Amman,Jordan,False,462,0.39692814882588245,1.5,0.5953922232388237
+2025-03-14,Jordan,North Korea,1.0,1.0,Friendly,Amman,Jordan,False,468,0.39219347589350495,0.75,0.29414510692012874
+2025-01-22,Uzbekistan,Jordan,0.0,0.0,Friendly,Doha,Qatar,True,519,0.35416229870357024,0.75,0.2656217240276777
+2024-11-19,Kuwait,Jordan,1.0,1.0,FIFA World Cup qualification,Kuwait City,Kuwait,False,583,0.31161089527997105,1.5,0.4674163429199566
+2024-10-15,Jordan,Oman,4.0,0.0,FIFA World Cup qualification,Amman,Jordan,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-09-10,Palestine,Jordan,1.0,3.0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True,653,0.27090149805163766,1.5,0.4063522470774565
+2026-06-23,Portugal,Uzbekistan,5.0,0.0,FIFA World Cup,Houston,United States,True,2,0.9960079893439915,1.5,1.4940119840159873
+2026-06-17,Portugal,DR Congo,1.0,1.0,FIFA World Cup,Houston,United States,True,8,0.9841273200552851,1.5,1.4761909800829276
+2026-06-10,Portugal,Nigeria,2.0,1.0,Friendly,Leiria,Portugal,False,15,0.9704455335485082,0.75,0.7278341501613811
+2026-06-06,Portugal,Chile,2.0,1.0,Friendly,Oeiras,Portugal,False,19,0.9627129408911995,0.75,0.7220347056683997
+2025-11-16,Portugal,Armenia,9.0,1.0,FIFA World Cup qualification,Porto,Portugal,False,221,0.6427496354555312,1.5,0.9641244531832969
+2025-11-13,Republic of Ireland,Portugal,2.0,0.0,FIFA World Cup qualification,Dublin,Republic of Ireland,False,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-14,Portugal,Hungary,2.0,2.0,FIFA World Cup qualification,Lisbon,Portugal,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-11,Portugal,Republic of Ireland,1.0,0.0,FIFA World Cup qualification,Lisbon,Portugal,False,257,0.5980983940627613,1.5,0.897147591094142
+2025-09-09,Hungary,Portugal,2.0,3.0,FIFA World Cup qualification,Budapest,Hungary,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-06,Armenia,Portugal,0.0,5.0,FIFA World Cup qualification,Yerevan,Armenia,False,292,0.5576632463197913,1.5,0.8364948694796869
+2025-03-23,Portugal,Denmark,5.0,2.0,UEFA Nations League,Lisbon,Portugal,False,459,0.3993168767363899,1.1,0.4392485644100289
+2025-03-20,Denmark,Portugal,1.0,0.0,UEFA Nations League,Copenhagen,Denmark,False,462,0.39692814882588245,1.1,0.43662096370847076
+2024-11-18,Croatia,Portugal,1.0,1.0,UEFA Nations League,Split,Croatia,False,584,0.3109882962959281,1.1,0.34208712592552093
+2024-11-15,Portugal,Poland,5.0,1.0,UEFA Nations League,Porto,Portugal,False,587,0.30912795312868047,1.1,0.3400407484415485
+2024-10-12,Poland,Portugal,1.0,3.0,UEFA Nations League,Warsaw,Poland,False,621,0.28880602788595566,1.1,0.3176866306745513
+2024-09-05,Portugal,Croatia,2.0,1.0,UEFA Nations League,Lisbon,Portugal,False,658,0.2682059831084244,1.1,0.2950265814192669
+2024-07-01,Portugal,Slovenia,0.0,0.0,UEFA Euro,Frankfurt,Germany,True,724,0.23503989812347828,1.3,0.3055518675605218
+2024-06-26,Georgia,Portugal,2.0,0.0,UEFA Euro,Gelsenkirchen,Germany,True,729,0.23270121206157107,1.3,0.3025115756800424
+2024-06-11,Portugal,Republic of Ireland,3.0,0.0,Friendly,Aveiro,Portugal,False,744,0.22582385189647586,0.75,0.16936788892235688
+2024-06-08,Portugal,Croatia,1.0,2.0,Friendly,Oeiras,Portugal,False,747,0.22447296549695234,0.75,0.16835472412271424
+2024-06-04,Portugal,Finland,4.0,2.0,Friendly,Lisbon,Portugal,False,751,0.22268434579109508,0.75,0.1670132593433213
+2026-06-23,Colombia,DR Congo,1.0,0.0,FIFA World Cup,Zapopan,Mexico,True,2,0.9960079893439915,1.5,1.4940119840159873
+2026-06-09,DR Congo,Chile,1.0,2.0,Friendly,Orléans,France,True,16,0.9685065820791976,0.75,0.7263799365593981
+2026-06-03,DR Congo,Denmark,0.0,0.0,Friendly,Liège,Belgium,True,22,0.9569539574730467,0.75,0.717715468104785
+2026-03-31,DR Congo,Jamaica,1.0,0.0,FIFA World Cup qualification,Zapopan,Mexico,True,86,0.8419791731684999,1.5,1.26296875975275
+2026-03-25,Bermuda,DR Congo,0.0,2.0,Friendly,Zapopan,Mexico,True,92,0.8319358038266718,0.75,0.6239518528700039
+2025-12-30,Botswana,DR Congo,0.0,3.0,African Cup of Nations,Rabat,Morocco,True,177,0.701874967355394,1.1,0.7720624640909335
+2025-12-23,DR Congo,Benin,1.0,0.0,African Cup of Nations,Rabat,Morocco,True,184,0.6921171816887304,1.1,0.7613288998576034
+2025-11-16,Nigeria,DR Congo,1.0,1.0,FIFA World Cup qualification,Rabat,Morocco,True,221,0.6427496354555312,1.5,0.9641244531832969
+2025-11-13,Cameroon,DR Congo,0.0,1.0,FIFA World Cup qualification,Rabat,Morocco,True,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-14,DR Congo,Sudan,1.0,0.0,FIFA World Cup qualification,Kinshasa,DR Congo,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-10,Togo,DR Congo,0.0,1.0,FIFA World Cup qualification,Lomé,Togo,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-05,South Sudan,DR Congo,1.0,4.0,FIFA World Cup qualification,Juba,South Sudan,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-08,DR Congo,Madagascar,3.0,1.0,Friendly,Orléans,France,True,382,0.46579949764982825,0.75,0.3493496232373712
+2025-06-05,DR Congo,Mali,1.0,0.0,Friendly,Orléans,France,True,385,0.46301306831122807,0.75,0.34725980123342104
+2025-03-25,Mauritania,DR Congo,0.0,2.0,FIFA World Cup qualification,Nouadhibou,Mauritania,False,457,0.4009173430419921,1.5,0.6013760145629882
+2025-03-21,DR Congo,South Sudan,1.0,0.0,FIFA World Cup qualification,Kinshasa,DR Congo,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-19,DR Congo,Ethiopia,1.0,2.0,African Cup of Nations qualification,Kinshasa,DR Congo,False,583,0.31161089527997105,1.25,0.3895136190999638
+2024-11-16,Guinea,DR Congo,1.0,0.0,African Cup of Nations qualification,Abidjan,Ivory Coast,True,586,0.3097468277032208,1.25,0.387183534629026
+2024-10-15,Tanzania,DR Congo,0.0,2.0,African Cup of Nations qualification,Dar es Salaam,Tanzania,False,618,0.2905440729744046,1.25,0.36318009121800576
+2024-10-10,DR Congo,Tanzania,1.0,0.0,African Cup of Nations qualification,Kinshasa,DR Congo,False,623,0.2876531111451154,1.25,0.35956638893139425
+2024-09-09,Ethiopia,DR Congo,0.0,2.0,African Cup of Nations qualification,Dar es Salaam,Tanzania,True,654,0.270360236497509,1.25,0.3379502956218863
+2024-09-06,DR Congo,Guinea,1.0,0.0,African Cup of Nations qualification,Kinshasa,DR Congo,False,657,0.26874293184439435,1.25,0.33592866480549294
+2024-06-09,DR Congo,Togo,1.0,0.0,FIFA World Cup qualification,Kinshasa,DR Congo,False,746,0.22492236067332425,1.5,0.33738354100998635
+2024-06-06,Senegal,DR Congo,1.0,1.0,FIFA World Cup qualification,Diamniadio,Senegal,False,749,0.22357686702670268,1.5,0.33536530054005403
+2024-02-10,South Africa,DR Congo,0.0,0.0,African Cup of Nations,Abidjan,Ivory Coast,True,866,0.17693019548249692,1.1,0.19462321503074662
+2024-02-07,Ivory Coast,DR Congo,1.0,0.0,African Cup of Nations,Ebimpé,Ivory Coast,False,869,0.17587179269317638,1.1,0.19345897196249404
+2026-06-17,Uzbekistan,Colombia,1.0,3.0,FIFA World Cup,Mexico City,Mexico,True,8,0.9841273200552851,1.5,1.4761909800829276
+2026-03-30,Uzbekistan,Venezuela,0.0,0.0,FIFA Series,Tashkent,Uzbekistan,False,87,0.8402968976584314,0.75,0.6302226732438235
+2026-03-27,Uzbekistan,Gabon,3.0,1.0,FIFA Series,Tashkent,Uzbekistan,False,90,0.835270211411272,0.75,0.626452658558454
+2026-01-26,Uzbekistan,China,2.0,2.0,Friendly,Dubai,United Arab Emirates,True,150,0.7408182206817179,0.75,0.5556136655112884
+2025-10-10,Uzbekistan,Kuwait,2.0,0.0,Friendly,Tashkent,Uzbekistan,False,258,0.596903392674358,0.75,0.44767754450576847
+2025-06-05,United Arab Emirates,Uzbekistan,0.0,0.0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False,385,0.46301306831122807,1.5,0.6945196024668421
+2025-03-20,Uzbekistan,Kyrgyzstan,1.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,462,0.39692814882588245,1.5,0.5953922232388237
+2024-11-19,North Korea,Uzbekistan,0.0,1.0,FIFA World Cup qualification,Vientiane,Laos,True,583,0.31161089527997105,1.5,0.4674163429199566
+2024-10-15,Uzbekistan,United Arab Emirates,1.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-09-10,Kyrgyzstan,Uzbekistan,2.0,3.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False,653,0.27090149805163766,1.5,0.4063522470774565
+2024-09-05,Uzbekistan,North Korea,1.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,658,0.2682059831084244,1.5,0.4023089746626366
+2024-06-06,Uzbekistan,Turkmenistan,3.0,1.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,749,0.22357686702670268,1.5,0.33536530054005403
+2024-03-26,Uzbekistan,Hong Kong,3.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False,821,0.1935924699078839,1.5,0.29038870486182583
+2024-03-21,Hong Kong,Uzbekistan,0.0,2.0,FIFA World Cup qualification,Hong Kong,Hong Kong,False,826,0.19166619264739126,1.5,0.2874992889710869
+2024-02-03,Qatar,Uzbekistan,1.0,1.0,AFC Asian Cup,Al Khor,Qatar,False,873,0.17447043127123832,0.75,0.13085282345342875
+2024-01-30,Uzbekistan,Thailand,2.0,1.0,AFC Asian Cup,Al Wakrah,Qatar,True,877,0.17308023601645434,0.75,0.12981017701234077
+2024-01-18,India,Uzbekistan,0.0,3.0,AFC Asian Cup,Al Rayyan,Qatar,True,889,0.16897576106439058,0.75,0.12673182079829293
+2026-06-01,Colombia,Costa Rica,3.0,1.0,Friendly,Bogotá,Colombia,False,24,0.9531337870775047,0.75,0.7148503403081286
+2026-03-26,Colombia,Croatia,1.0,2.0,Friendly,Orlando,United States,True,91,0.8336013404157353,0.75,0.6252010053118014
+2025-09-09,Venezuela,Colombia,3.0,6.0,FIFA World Cup qualification,Maturín,Venezuela,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-04,Colombia,Bolivia,3.0,0.0,FIFA World Cup qualification,Barranquilla,Colombia,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-06,Colombia,Peru,0.0,0.0,FIFA World Cup qualification,Barranquilla,Colombia,False,384,0.4639400210916467,1.5,0.6959100316374701
+2024-10-15,Colombia,Chile,4.0,0.0,FIFA World Cup qualification,Barranquilla,Colombia,False,618,0.2905440729744046,1.5,0.43581610946160687
+2024-10-10,Bolivia,Colombia,1.0,0.0,FIFA World Cup qualification,El Alto,Bolivia,False,623,0.2876531111451154,1.5,0.43147966671767307
+2024-09-06,Peru,Colombia,1.0,1.0,FIFA World Cup qualification,Lima,Peru,False,657,0.26874293184439435,1.5,0.4031143977665915
+2024-07-06,Colombia,Panama,5.0,0.0,Copa América,Glendale,United States,True,719,0.23740208837106508,0.75,0.17805156627829882
+2024-06-28,Colombia,Costa Rica,3.0,0.0,Copa América,Glendale,United States,True,727,0.23363388100414423,0.75,0.17522541075310816
+2024-06-15,Colombia,Bolivia,3.0,0.0,Friendly,Denver,United States,True,740,0.22763768838381274,0.75,0.17072826628785956
+2024-06-08,United States,Colombia,1.0,5.0,Friendly,Landover,United States,False,747,0.22447296549695234,0.75,0.16835472412271424
+2026-06-23,England,Ghana,0.0,0.0,FIFA World Cup,Foxborough,United States,True,2,0.9960079893439915,1.5,1.4940119840159873
+2026-06-17,England,Croatia,4.0,2.0,FIFA World Cup,Arlington,United States,True,8,0.9841273200552851,1.5,1.4761909800829276
+2026-06-10,England,Costa Rica,3.0,0.0,Friendly,Orlando,United States,True,15,0.9704455335485082,0.75,0.7278341501613811
+2025-11-16,Albania,England,0.0,2.0,FIFA World Cup qualification,Tirana,Albania,False,221,0.6427496354555312,1.5,0.9641244531832969
+2025-11-13,England,Serbia,2.0,0.0,FIFA World Cup qualification,London,England,False,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-14,Latvia,England,0.0,5.0,FIFA World Cup qualification,Riga,Latvia,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-09,England,Wales,3.0,0.0,Friendly,London,England,False,259,0.5957107789003212,0.75,0.44678308417524093
+2025-09-09,Serbia,England,0.0,5.0,FIFA World Cup qualification,Belgrade,Serbia,False,289,0.5610192838421706,1.5,0.8415289257632559
+2025-09-06,England,Andorra,2.0,0.0,FIFA World Cup qualification,London,England,False,292,0.5576632463197913,1.5,0.8364948694796869
+2025-06-07,Andorra,England,0.0,1.0,FIFA World Cup qualification,Barcelona,Spain,True,383,0.46486882963276827,1.5,0.6973032444491524
+2025-03-24,England,Latvia,3.0,0.0,FIFA World Cup qualification,London,England,False,458,0.40011630965630496,1.5,0.6001744644844574
+2025-03-21,England,Albania,2.0,0.0,FIFA World Cup qualification,London,England,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-17,England,Republic of Ireland,5.0,0.0,UEFA Nations League,London,England,False,585,0.31036694126548503,1.1,0.34140363539203356
+2024-11-14,Greece,England,0.0,3.0,UEFA Nations League,Athens,Greece,False,588,0.3085103150663647,1.1,0.3393613465730012
+2024-10-13,Finland,England,1.0,3.0,UEFA Nations League,Helsinki,Finland,False,620,0.2893842179390506,1.1,0.3183226397329557
+2024-10-10,England,Greece,1.0,2.0,UEFA Nations League,London,England,False,623,0.2876531111451154,1.1,0.31641842225962696
+2024-09-10,England,Finland,2.0,0.0,UEFA Nations League,London,England,False,653,0.27090149805163766,1.1,0.29799164785680143
+2024-09-07,Republic of Ireland,England,0.0,2.0,UEFA Nations League,Dublin,Republic of Ireland,False,656,0.26928095555244996,1.1,0.29620905110769497
+2024-06-30,England,Slovakia,2.0,1.0,UEFA Euro,Gelsenkirchen,Germany,True,725,0.23457028809379765,1.3,0.304941374521937
+2024-06-25,England,Slovenia,0.0,0.0,UEFA Euro,Cologne,Germany,True,730,0.23223627472975883,1.3,0.3019071571486865
+2024-06-20,Denmark,England,1.0,1.0,UEFA Euro,Frankfurt,Germany,True,735,0.22992548518672384,1.3,0.298903130742741
+2024-06-16,Serbia,England,0.0,1.0,UEFA Euro,Gelsenkirchen,Germany,True,739,0.22809341933962587,1.3,0.29652144514151363
+2024-06-07,England,Iceland,0.0,1.0,Friendly,London,England,False,748,0.22402446821274175,0.75,0.16801835115955632
+2026-06-23,Panama,Croatia,0.0,1.0,FIFA World Cup,Toronto,Canada,True,2,0.9960079893439915,1.5,1.4940119840159873
+2026-06-07,Croatia,Slovenia,2.0,1.0,Friendly,Varaždin,Croatia,False,18,0.9646402934831231,0.75,0.7234802201123423
+2025-11-17,Montenegro,Croatia,2.0,3.0,FIFA World Cup qualification,Podgorica,Montenegro,False,220,0.6440364210831414,1.5,0.9660546316247121
+2025-11-14,Croatia,Faroe Islands,3.0,1.0,FIFA World Cup qualification,Rijeka,Croatia,False,223,0.6401837720616471,1.5,0.9602756580924707
+2025-10-12,Croatia,Gibraltar,3.0,0.0,FIFA World Cup qualification,Varaždin,Croatia,False,256,0.5992957878455384,1.5,0.8989436817683076
+2025-09-08,Croatia,Montenegro,4.0,0.0,FIFA World Cup qualification,Zagreb,Croatia,False,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-05,Faroe Islands,Croatia,0.0,1.0,FIFA World Cup qualification,Tórshavn,Faroe Islands,False,293,0.5565490344104649,1.5,0.8348235516156973
+2025-06-06,Gibraltar,Croatia,0.0,7.0,FIFA World Cup qualification,Faro-Loulé,Portugal,True,384,0.4639400210916467,1.5,0.6959100316374701
+2024-10-15,Poland,Croatia,3.0,3.0,UEFA Nations League,Warsaw,Poland,False,618,0.2905440729744046,1.1,0.31959848027184506
+2024-09-08,Croatia,Poland,1.0,0.0,UEFA Nations League,Osijek,Croatia,False,655,0.2698200563846868,1.1,0.2968020620231555
+2024-06-24,Croatia,Italy,1.0,1.0,UEFA Euro,Leipzig,Germany,True,731,0.23177226634335515,1.3,0.3013039462463617
+2024-06-19,Croatia,Albania,2.0,2.0,UEFA Euro,Hamburg,Germany,True,736,0.22946609376090668,1.3,0.2983059218891787
+2024-06-03,Croatia,North Macedonia,3.0,0.0,Friendly,Rijeka,Croatia,False,752,0.2222394221714404,0.75,0.1666795666285803
+2024-03-26,Egypt,Croatia,2.0,4.0,FIFA Series,Cairo,Egypt,False,821,0.1935924699078839,0.75,0.14519435243091292
+2024-03-23,Tunisia,Croatia,0.0,0.0,FIFA Series,Cairo,Egypt,True,824,0.19243439279400748,0.75,0.1443257945955056
+2023-11-21,Croatia,Armenia,1.0,0.0,UEFA Euro qualification,Zagreb,Croatia,False,947,0.15046872856567356,1.25,0.18808591070709196
+2026-06-17,Ghana,Panama,1.0,0.0,FIFA World Cup,Toronto,Canada,True,8,0.9841273200552851,1.5,1.4761909800829276
+2026-06-02,Wales,Ghana,1.0,1.0,Friendly,Cardiff,Wales,False,23,0.9550419621907147,0.75,0.716281471643036
+2025-10-12,Ghana,Comoros,1.0,0.0,FIFA World Cup qualification,Accra,Ghana,False,256,0.5992957878455384,1.5,0.8989436817683076
+2025-10-08,Central African Republic,Ghana,0.0,5.0,FIFA World Cup qualification,El Jadida,Morocco,True,260,0.5945205479701944,1.5,0.8917808219552916
+2025-09-08,Ghana,Mali,1.0,0.0,FIFA World Cup qualification,Accra,Ghana,False,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-04,Chad,Ghana,1.0,1.0,FIFA World Cup qualification,N'Djamena,Chad,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-05-31,Trinidad and Tobago,Ghana,0.0,4.0,Unity Cup,London,England,True,390,0.4584060113052235,0.75,0.34380450847891764
+2025-05-28,Nigeria,Ghana,2.0,1.0,Unity Cup,London,England,True,393,0.4556638100677035,0.75,0.34174785755077763
+2025-03-24,Madagascar,Ghana,0.0,3.0,FIFA World Cup qualification,Al Hoceima,Morocco,True,458,0.40011630965630496,1.5,0.6001744644844574
+2025-03-21,Ghana,Chad,5.0,0.0,FIFA World Cup qualification,Accra,Ghana,False,461,0.39772279950933415,1.5,0.5965841992640012
+2024-11-18,Ghana,Niger,1.0,2.0,African Cup of Nations qualification,Accra,Ghana,False,584,0.3109882962959281,1.25,0.3887353703699101
+2024-11-15,Angola,Ghana,1.0,1.0,African Cup of Nations qualification,Talatona,Angola,False,587,0.30912795312868047,1.25,0.3864099414108506
+2024-10-15,Sudan,Ghana,2.0,0.0,African Cup of Nations qualification,Benghazi,Libya,True,618,0.2905440729744046,1.25,0.36318009121800576
+2024-10-10,Ghana,Sudan,0.0,0.0,African Cup of Nations qualification,Accra,Ghana,False,623,0.2876531111451154,1.25,0.35956638893139425
+2024-09-09,Niger,Ghana,1.0,1.0,African Cup of Nations qualification,Berkane,Morocco,True,654,0.270360236497509,1.25,0.3379502956218863
+2024-09-05,Ghana,Angola,0.0,1.0,African Cup of Nations qualification,Kumasi,Ghana,False,658,0.2682059831084244,1.25,0.33525747888553054
+2024-06-10,Ghana,Central African Republic,4.0,3.0,FIFA World Cup qualification,Kumasi,Ghana,False,745,0.22537265553943872,1.5,0.33805898330915807
+2024-06-06,Mali,Ghana,1.0,2.0,FIFA World Cup qualification,Bamako,Mali,False,749,0.22357686702670268,1.5,0.33536530054005403
+2024-03-22,Nigeria,Ghana,2.0,1.0,Friendly,Marrakesh,Morocco,True,825,0.19204990862075408,0.75,0.14403743146556555
+2024-01-22,Mozambique,Ghana,2.0,2.0,African Cup of Nations,Ebimpé,Ivory Coast,True,885,0.17033298882540943,1.1,0.18736628770795039
+2024-01-18,Egypt,Ghana,2.0,2.0,African Cup of Nations,Abidjan,Ivory Coast,True,889,0.16897576106439058,1.1,0.18587333717082966
+2024-01-14,Ghana,Cape Verde,1.0,2.0,African Cup of Nations,Abidjan,Ivory Coast,True,893,0.167629347809757,1.1,0.1843922825907327
+2024-01-08,Ghana,Namibia,0.0,0.0,Friendly,Kumasi,Ghana,False,899,0.16562981681631492,0.75,0.12422236261223618
+2023-11-21,Comoros,Ghana,1.0,0.0,FIFA World Cup qualification,Moroni,Comoros,False,947,0.15046872856567356,1.5,0.22570309284851034
+2026-06-03,Panama,Dominican Republic,4.0,2.0,Friendly,Panama City,Panama,False,22,0.9569539574730467,0.75,0.717715468104785
+2026-01-18,Bolivia,Panama,1.0,1.0,Friendly,Tarija,Bolivia,False,158,0.7290594501676237,0.75,0.5467945876257179
+2025-11-18,Panama,El Salvador,3.0,0.0,FIFA World Cup qualification,Panama City,Panama,False,219,0.6453257828572946,1.5,0.9679886742859418
+2025-11-13,Guatemala,Panama,2.0,3.0,FIFA World Cup qualification,Guatemala City,Guatemala,False,224,0.6389046840319162,1.5,0.9583570260478744
+2025-10-14,Panama,Suriname,1.0,1.0,FIFA World Cup qualification,Panama City,Panama,False,254,0.6016977717621094,1.5,0.902546657643164
+2025-10-10,El Salvador,Panama,0.0,1.0,FIFA World Cup qualification,San Salvador,El Salvador,False,258,0.596903392674358,1.5,0.8953550890115369
+2025-09-08,Panama,Guatemala,1.0,1.0,FIFA World Cup qualification,Panama City,Panama,False,290,0.559898366565402,1.5,0.8398475498481031
+2025-09-04,Suriname,Panama,0.0,0.0,FIFA World Cup qualification,Paramaribo,Suriname,False,294,0.5554370486980182,1.5,0.8331555730470274
+2025-06-28,Panama,Honduras,1.0,1.0,Gold Cup,Glendale,United States,True,362,0.48480913576734325,1.15,0.5575305061324447
+2025-06-24,Panama,Jamaica,4.0,1.0,Gold Cup,Austin,United States,True,366,0.480946135285778,1.15,0.5530880555786447
+2025-06-20,Guatemala,Panama,0.0,1.0,Gold Cup,Austin,United States,True,370,0.4771139155210344,1.15,0.5486810028491895
+2025-06-16,Panama,Guadeloupe,5.0,2.0,Gold Cup,Carson,United States,True,374,0.4733122312097393,1.15,0.5443090658912002
+2025-06-10,Panama,Nicaragua,3.0,0.0,FIFA World Cup qualification,Panama City,Panama,False,380,0.46766642700990924,1.5,0.7014996405148639
+2025-06-07,Belize,Panama,0.0,2.0,FIFA World Cup qualification,Belmopan,Belize,False,383,0.46486882963276827,1.5,0.6973032444491524
+2025-02-08,Chile,Panama,6.0,1.0,Friendly,Santiago,Chile,False,502,0.3664108625221595,0.75,0.2748081468916196
+2024-11-18,Panama,Costa Rica,2.0,2.0,CONCACAF Nations League,Panama City,Panama,False,584,0.3109882962959281,1.1,0.34208712592552093
+2024-11-14,Costa Rica,Panama,0.0,1.0,CONCACAF Nations League,San José,Costa Rica,False,588,0.3085103150663647,1.1,0.3393613465730012
+2024-07-01,Bolivia,Panama,1.0,3.0,Copa América,Orlando,United States,True,724,0.23503989812347828,0.75,0.17627992359260872
